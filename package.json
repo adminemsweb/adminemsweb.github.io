@@ -1,0 +1,23 @@
+{
+  "name": "rack",
+  "version": "1.0.0",
+  "description": "Frontend local da Metal Rack",
+  "scripts": {
+    "predev": "node scripts/optimize-images.mjs && node scripts/generate-site.mjs",
+    "dev": "vite --host 127.0.0.1 --port 5174 --strictPort",
+    "prebuild": "node scripts/optimize-images.mjs && node scripts/generate-site.mjs",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "check:seo": "node scripts/check-seo.mjs",
+    "audit:performance": "node scripts/performance-audit.mjs after"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "sharp": "^0.35.4",
+    "vite": "^8.3.0"
+  }
+}

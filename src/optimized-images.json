@@ -1,0 +1,250 @@
+{
+  "/assets/Rack-Standard-6a502b9dda.jpg": {
+    "src": "/assets/optimized/9f34b23aa48b-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/9f34b23aa48b-320.webp 320w, /assets/optimized/9f34b23aa48b-640.webp 640w, /assets/optimized/9f34b23aa48b-960.webp 960w",
+    "originalBytes": 43851,
+    "bytes": 12908
+  },
+  "/assets/Rack-Server-1-1e51716e18.jpg": {
+    "src": "/assets/optimized/8618d4b32fb4-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/8618d4b32fb4-320.webp 320w, /assets/optimized/8618d4b32fb4-640.webp 640w, /assets/optimized/8618d4b32fb4-960.webp 960w",
+    "originalBytes": 55866,
+    "bytes": 21408
+  },
+  "/assets/Rack-Aberto-da9963dad6.jpg": {
+    "src": "/assets/optimized/c9183d0315d0-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/c9183d0315d0-320.webp 320w, /assets/optimized/c9183d0315d0-640.webp 640w, /assets/optimized/c9183d0315d0-960.webp 960w",
+    "originalBytes": 49175,
+    "bytes": 14620
+  },
+  "/assets/Rack-Bipartido-50a8344117.jpg": {
+    "src": "/assets/optimized/5c4cb7c3e18d-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/5c4cb7c3e18d-320.webp 320w, /assets/optimized/5c4cb7c3e18d-640.webp 640w, /assets/optimized/5c4cb7c3e18d-960.webp 960w",
+    "originalBytes": 40363,
+    "bytes": 10876
+  },
+  "/assets/ChatGPT-Image-May-21-2025-06_13_08-PM-a04120ab0f.png": {
+    "src": "/assets/optimized/44949691af0c-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/44949691af0c-320.webp 320w, /assets/optimized/44949691af0c-640.webp 640w, /assets/optimized/44949691af0c-960.webp 960w",
+    "originalBytes": 1214903,
+    "bytes": 19310
+  },
+  "/assets/ChatGPT-Image-May-21-2025-06_07_50-PM-07eb701fbb.png": {
+    "src": "/assets/optimized/9515803cefa4-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/9515803cefa4-320.webp 320w, /assets/optimized/9515803cefa4-640.webp 640w, /assets/optimized/9515803cefa4-960.webp 960w",
+    "originalBytes": 1075509,
+    "bytes": 26428
+  },
+  "/assets/Rack-Standard-Kit-7adc2a30ca.jpg": {
+    "src": "/assets/optimized/fa80432fd403-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/fa80432fd403-320.webp 320w, /assets/optimized/fa80432fd403-640.webp 640w, /assets/optimized/fa80432fd403-960.webp 960w",
+    "originalBytes": 48118,
+    "bytes": 11950
+  },
+  "/assets/Demais-Modelos-772014413e.jpg": {
+    "src": "/assets/optimized/098191172d3b-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/098191172d3b-320.webp 320w, /assets/optimized/098191172d3b-640.webp 640w, /assets/optimized/098191172d3b-960.webp 960w",
+    "originalBytes": 126212,
+    "bytes": 48414
+  },
+  "/assets/Gabinete-com-Visor-8931ed142c.jpg": {
+    "src": "/assets/optimized/80b4a13db5d1-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": "/assets/optimized/80b4a13db5d1-320.webp 320w, /assets/optimized/80b4a13db5d1-640.webp 640w, /assets/optimized/80b4a13db5d1-960.webp 960w",
+    "originalBytes": 47787,
+    "bytes": 7260
+  },
+  "/assets/Gabinete-com-Porta-de-Aco-0385c5e9c6.jpg": {
+    "src": "/assets/optimized/37f6535f873a-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": "/assets/optimized/37f6535f873a-320.webp 320w, /assets/optimized/37f6535f873a-640.webp 640w, /assets/optimized/37f6535f873a-960.webp 960w",
+    "originalBytes": 40234,
+    "bytes": 4828
+  },
+  "/assets/rack-outdoor-115455884d.jpg": {
+    "src": "/assets/optimized/323fc728fd3c-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": "/assets/optimized/323fc728fd3c-320.webp 320w, /assets/optimized/323fc728fd3c-640.webp 640w, /assets/optimized/323fc728fd3c-960.webp 960w",
+    "originalBytes": 40853,
+    "bytes": 5970
+  },
+  "/assets/rack-outdoor2-825356d78e.jpg": {
+    "src": "/assets/optimized/b854f8797de2-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": "/assets/optimized/b854f8797de2-320.webp 320w, /assets/optimized/b854f8797de2-640.webp 640w, /assets/optimized/b854f8797de2-960.webp 960w",
+    "originalBytes": 51301,
+    "bytes": 9026
+  },
+  "/assets/Caixa-de-Montagem-c47cb6583d.jpg": {
+    "src": "/assets/optimized/2523407f5d7c-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": "/assets/optimized/2523407f5d7c-320.webp 320w, /assets/optimized/2523407f5d7c-640.webp 640w, /assets/optimized/2523407f5d7c-960.webp 960w",
+    "originalBytes": 76173,
+    "bytes": 12778
+  },
+  "/assets/Gabinetes-e-Caixas-em-INOX-f1176832a5.jpg": {
+    "src": "/assets/optimized/d1a4bd4d5bea-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": "/assets/optimized/d1a4bd4d5bea-320.webp 320w, /assets/optimized/d1a4bd4d5bea-640.webp 640w, /assets/optimized/d1a4bd4d5bea-960.webp 960w",
+    "originalBytes": 42379,
+    "bytes": 5270
+  },
+  "/assets/Rack-Standard-834c20b838.jpg": {
+    "src": "/assets/optimized/aa912cdeddab-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/aa912cdeddab-320.webp 320w, /assets/optimized/aa912cdeddab-640.webp 640w, /assets/optimized/aa912cdeddab-960.webp 960w",
+    "originalBytes": 54852,
+    "bytes": 12154
+  },
+  "/assets/Rack-Server-ea3ff96249.jpg": {
+    "src": "/assets/optimized/f0781c1ffdff-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/f0781c1ffdff-320.webp 320w, /assets/optimized/f0781c1ffdff-640.webp 640w, /assets/optimized/f0781c1ffdff-960.webp 960w",
+    "originalBytes": 83901,
+    "bytes": 29278
+  },
+  "/assets/Fiber-Robust-efa3398d4d.jpg": {
+    "src": "/assets/optimized/8fa6fc4d3e40-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/8fa6fc4d3e40-320.webp 320w, /assets/optimized/8fa6fc4d3e40-640.webp 640w, /assets/optimized/8fa6fc4d3e40-960.webp 960w",
+    "originalBytes": 57644,
+    "bytes": 13264
+  },
+  "/assets/Rack-Colocation-d54f9017d3.jpg": {
+    "src": "/assets/optimized/fd655eb7280a-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/fd655eb7280a-320.webp 320w, /assets/optimized/fd655eb7280a-640.webp 640w, /assets/optimized/fd655eb7280a-960.webp 960w",
+    "originalBytes": 60794,
+    "bytes": 12536
+  },
+  "/assets/Porta-Perfurada-1-4bd0650996.jpg": {
+    "src": "/assets/optimized/1518ed1fdd0e-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/1518ed1fdd0e-320.webp 320w, /assets/optimized/1518ed1fdd0e-640.webp 640w, /assets/optimized/1518ed1fdd0e-960.webp 960w",
+    "originalBytes": 119771,
+    "bytes": 56088
+  },
+  "/assets/Bandeja-Fixa-7aa57cf336.jpg": {
+    "src": "/assets/optimized/138ce2e6b6b4-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/138ce2e6b6b4-320.webp 320w, /assets/optimized/138ce2e6b6b4-640.webp 640w, /assets/optimized/138ce2e6b6b4-960.webp 960w",
+    "originalBytes": 104526,
+    "bytes": 52008
+  },
+  "/assets/Bandeja-Movel-5590d9b3c5.jpg": {
+    "src": "/assets/optimized/db10c0f51d61-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/db10c0f51d61-320.webp 320w, /assets/optimized/db10c0f51d61-640.webp 640w, /assets/optimized/db10c0f51d61-960.webp 960w",
+    "originalBytes": 36491,
+    "bytes": 12376
+  },
+  "/assets/Bandeja-com-71368abb1e.jpg": {
+    "src": "/assets/optimized/e07f087a5b2b-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/e07f087a5b2b-320.webp 320w, /assets/optimized/e07f087a5b2b-640.webp 640w, /assets/optimized/e07f087a5b2b-960.webp 960w",
+    "originalBytes": 37540,
+    "bytes": 10182
+  },
+  "/assets/Organizador-de-Cabos-e9972bacdb.jpg": {
+    "src": "/assets/optimized/f2a6046ee09e-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/f2a6046ee09e-320.webp 320w, /assets/optimized/f2a6046ee09e-640.webp 640w, /assets/optimized/f2a6046ee09e-960.webp 960w",
+    "originalBytes": 60056,
+    "bytes": 21930
+  },
+  "/assets/Acesso-Bilateral-1639744856.jpg": {
+    "src": "/assets/optimized/37901b9f936c-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/37901b9f936c-320.webp 320w, /assets/optimized/37901b9f936c-640.webp 640w, /assets/optimized/37901b9f936c-960.webp 960w",
+    "originalBytes": 53295,
+    "bytes": 20058
+  },
+  "/assets/PDUS-Gerenciaveis-68efdc949e.jpg": {
+    "src": "/assets/optimized/26f2e9127a8b-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/26f2e9127a8b-320.webp 320w, /assets/optimized/26f2e9127a8b-640.webp 640w, /assets/optimized/26f2e9127a8b-960.webp 960w",
+    "originalBytes": 38266,
+    "bytes": 13264
+  },
+  "/assets/Calhas-de-Tomadas-48856ca795.jpg": {
+    "src": "/assets/optimized/0691ac6f68ae-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/0691ac6f68ae-320.webp 320w, /assets/optimized/0691ac6f68ae-640.webp 640w, /assets/optimized/0691ac6f68ae-960.webp 960w",
+    "originalBytes": 60932,
+    "bytes": 24918
+  },
+  "/assets/Sistema-de-Filtro-780f7fe6a4.jpg": {
+    "src": "/assets/optimized/7d48af415e70-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/7d48af415e70-320.webp 320w, /assets/optimized/7d48af415e70-640.webp 640w, /assets/optimized/7d48af415e70-960.webp 960w",
+    "originalBytes": 75298,
+    "bytes": 30258
+  },
+  "/assets/Kit-de-Fixacao-86b630253b.jpg": {
+    "src": "/assets/optimized/cba9857ec25a-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/optimized/cba9857ec25a-320.webp 320w, /assets/optimized/cba9857ec25a-640.webp 640w, /assets/optimized/cba9857ec25a-960.webp 960w",
+    "originalBytes": 80004,
+    "bytes": 36688
+  },
+  "/assets/distribuidor-energia-4b2d58c4e0.jpg": {
+    "src": "/assets/optimized/e20c2227e3d3-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": "/assets/optimized/e20c2227e3d3-320.webp 320w, /assets/optimized/e20c2227e3d3-640.webp 640w, /assets/optimized/e20c2227e3d3-960.webp 960w",
+    "originalBytes": 77602,
+    "bytes": 17906
+  },
+  "/assets/dis-energia-69aef12cba.jpg": {
+    "src": "/assets/optimized/c7b5e67a3e24-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": "/assets/optimized/c7b5e67a3e24-320.webp 320w, /assets/optimized/c7b5e67a3e24-640.webp 640w, /assets/optimized/c7b5e67a3e24-960.webp 960w",
+    "originalBytes": 57501,
+    "bytes": 8394
+  },
+  "/assets/Distribuidor-Geral-Optico-1-5451727195.jpg": {
+    "src": "/assets/optimized/d98ddf103fc4-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": "/assets/optimized/d98ddf103fc4-320.webp 320w, /assets/optimized/d98ddf103fc4-640.webp 640w, /assets/optimized/d98ddf103fc4-960.webp 960w",
+    "originalBytes": 37542,
+    "bytes": 4334
+  }
+}

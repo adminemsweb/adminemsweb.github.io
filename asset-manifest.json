@@ -1,0 +1,699 @@
+{
+  "source": "https://racksolutions.com.br/",
+  "assets": {
+    "https://racksolutions.com.br/wp-content/themes/hello-elementor/style.min.css?ver=3.4.2": {
+      "local": "/assets/style-min-5c7a0a41b5.css"
+    },
+    "https://racksolutions.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=3.4.2": {
+      "local": "/assets/theme-min-1d5cfb80f6.css"
+    },
+    "https://racksolutions.com.br/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.4.2": {
+      "local": "/assets/header-footer-min-3f0e375911.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.30.3": {
+      "local": "/assets/frontend-min-7b92cbfa4f.css"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/css/post-7.css?ver=1787234778": {
+      "local": "/assets/post-7-ef18b639a8.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.30.3": {
+      "local": "/assets/widget-icon-list-min-38397743eb.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.30.3": {
+      "local": "/assets/widget-image-min-f3624812fe.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.28.3": {
+      "local": "/assets/widget-nav-menu-min-a7f5834bb0.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.30.3": {
+      "local": "/assets/widget-heading-min-e6e7ab2390.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=3.30.3": {
+      "local": "/assets/zoomIn-min-db5b111eda.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=3.30.3": {
+      "local": "/assets/e-animation-float-min-f879de9ad6.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.30.3": {
+      "local": "/assets/widget-social-icons-min-9749c3b243.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.30.3": {
+      "local": "/assets/apple-webkit-min-43049735f4.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.30.3": {
+      "local": "/assets/widget-divider-min-f32bf448ef.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.30.3": {
+      "local": "/assets/all-min-34db3e80eb.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.30.3": {
+      "local": "/assets/v4-shims-min-e94ec2e90d.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot": {
+      "local": "/assets/fa-brands-400-1c0b2407f6.eot"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?#iefix": {
+      "local": "/assets/fa-brands-400-16375fd3d2.eot"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2": {
+      "local": "/assets/fa-brands-400-54751f235b.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff": {
+      "local": "/assets/fa-brands-400-d51faaaca0.woff"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf": {
+      "local": "/assets/fa-brands-400-1c73c3b8e1.ttf"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg#fontawesome": {
+      "local": "/assets/fa-brands-400-445d63121d.svg"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot": {
+      "local": "/assets/fa-regular-400-0036ad79ea.eot"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?#iefix": {
+      "local": "/assets/fa-regular-400-ce79208b58.eot"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2": {
+      "local": "/assets/fa-regular-400-43376de8f6.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff": {
+      "local": "/assets/fa-regular-400-6ad5c5805a.woff"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf": {
+      "local": "/assets/fa-regular-400-a702e5602f.ttf"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg#fontawesome": {
+      "local": "/assets/fa-regular-400-665c5a121d.svg"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot": {
+      "local": "/assets/fa-solid-900-81d9b0ffd7.eot"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?#iefix": {
+      "local": "/assets/fa-solid-900-95c1a8bb57.eot"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2": {
+      "local": "/assets/fa-solid-900-ef45b35563.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff": {
+      "local": "/assets/fa-solid-900-49c21b17eb.woff"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf": {
+      "local": "/assets/fa-solid-900-28fb731ada.ttf"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg#fontawesome": {
+      "local": "/assets/fa-solid-900-e7abb5dc54.svg"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.30.3": {
+      "local": "/assets/fadeInUp-min-76c8d661cd.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5": {
+      "local": "/assets/swiper-min-195fd71a5f.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.30.3": {
+      "local": "/assets/e-swiper-min-a8f6a3ec95.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor-pro/assets/css/widget-slides.min.css?ver=3.28.3": {
+      "local": "/assets/widget-slides-min-37e0e0ebf9.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/css/widget-menu-anchor.min.css?ver=3.30.3": {
+      "local": "/assets/widget-menu-anchor-min-6801efb01d.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.30.3": {
+      "local": "/assets/fadeInLeft-min-f305f340bf.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css?ver=3.28.3": {
+      "local": "/assets/widget-call-to-action-min-cc2119a4a7.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css?ver=3.28.3": {
+      "local": "/assets/transitions-min-0db04f045c.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=3.30.3": {
+      "local": "/assets/fadeInDown-min-db3d824250.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/slideInRight.min.css?ver=3.30.3": {
+      "local": "/assets/slideInRight-min-68fd1f0fa2.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.28.3": {
+      "local": "/assets/widget-form-min-c89431737f.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.30.3": {
+      "local": "/assets/fadeIn-min-992b442c36.css"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/css/post-166.css?ver=1787234779": {
+      "local": "/assets/post-166-63f23ec450.css"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/css/post-143.css?ver=1787234779": {
+      "local": "/assets/post-143-0194bfcca0.css"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/css/post-351.css?ver=1787234779": {
+      "local": "/assets/post-351-b542593fac.css"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.7.9": {
+      "local": "/assets/widget-styles-0a484d3327.css"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Home-Bg-transparant-image.png": {
+      "local": "/assets/Home-Bg-transparant-image-6be8fab8ec.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/About-us-bg.png": {
+      "local": "/assets/About-us-bg-9dbc06dd4c.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/racksolutionsbg01-azul-1.jpg": {
+      "local": "/assets/racksolutionsbg01-azul-1-aaf7704f37.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png": {
+      "local": "/assets/arrow-ba7517b18b.png"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png": {
+      "local": "/assets/sort_asc-97cf90e103.png"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png": {
+      "local": "/assets/sort_desc-9108eb627f.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/racksolutionsbg03-1.jpg": {
+      "local": "/assets/racksolutionsbg03-1-dba67681f5.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png": {
+      "local": "/assets/sort_asc_disabled-8c78d204a2.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/racksolutionsbg01-1.jpg": {
+      "local": "/assets/racksolutionsbg01-1-00db976f78.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg": {
+      "local": "/assets/cross-out-69c45415d3.svg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/banner-mobile.jpg": {
+      "local": "/assets/banner-mobile-6b6ce24180.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/banner-mobile-2.jpg": {
+      "local": "/assets/banner-mobile-2-c2bff44a4d.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/banner-mobile-3.jpg": {
+      "local": "/assets/banner-mobile-3-242e2b05d2.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Home-bg-linedot-image.png": {
+      "local": "/assets/Home-bg-linedot-image-e051842b70.png"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.7.9": {
+      "local": "/assets/responsive-a436d9f0fa.css"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/css/rubik.css?ver=1745966478": {
+      "local": "/assets/rubik-0a82a7167b.css"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/favtack_Prancheta-1-150x150.png": {
+      "local": "/assets/favtack_Prancheta-1-150x150-61be2b1743.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/favtack_Prancheta-1-300x300.png": {
+      "local": "/assets/favtack_Prancheta-1-300x300-64193edcff.png"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.7.9": {
+      "local": "/assets/ekiticons-24cb2ff0f6.css"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/racklogo_Prancheta-1-scaled.png": {
+      "local": "/assets/racklogo_Prancheta-1-scaled-77d2ed79c6.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/racklogo_Prancheta-1-300x71.png": {
+      "local": "/assets/racklogo_Prancheta-1-300x71-2142ff3335.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/racklogo_Prancheta-1-1024x242.png": {
+      "local": "/assets/racklogo_Prancheta-1-1024x242-668224ea62.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwebxyifdniv7nenxu61f3f.woff2": {
+      "local": "/assets/rubik-ijwebxyifdniv7nenxu61f3f-6c08564089.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?itek3h": {
+      "local": "/assets/elementskit-2a2d5625ad.woff"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/racklogo_Prancheta-1-768x182.png": {
+      "local": "/assets/racklogo_Prancheta-1-768x182-fc20e9d475.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwebxyifdniv7nenxo61f3f.woff2": {
+      "local": "/assets/rubik-ijwebxyifdniv7nenxo61f3f-ae7c159efb.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/racklogo_Prancheta-1-1536x363.png": {
+      "local": "/assets/racklogo_Prancheta-1-1536x363-494e463e1c.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwebxyifdniv7nenxq61f3f.woff2": {
+      "local": "/assets/rubik-ijwebxyifdniv7nenxq61f3f-d7ea33eb75.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/racklogo_Prancheta-1-2048x485.png": {
+      "local": "/assets/racklogo_Prancheta-1-2048x485-1b7ccb4294.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwebxyifdniv7nenxy61f3f.woff2": {
+      "local": "/assets/rubik-ijwebxyifdniv7nenxy61f3f-9d4a9fcb19.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwebxyifdniv7nenxc61f3f.woff2": {
+      "local": "/assets/rubik-ijwebxyifdniv7nenxc61f3f-dce3b824ba.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwebxyifdniv7nenx661a.woff2": {
+      "local": "/assets/rubik-ijwebxyifdniv7nenx661a-775615a3d5.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwkbxyifdniv7nerxyi0a.woff2": {
+      "local": "/assets/rubik-ijwkbxyifdniv7nerxyi0a-df95c8e735.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwkbxyifdniv7nmrxyi0a.woff2": {
+      "local": "/assets/rubik-ijwkbxyifdniv7nmrxyi0a-ce8035d40a.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwkbxyifdniv7nfrxyi0a.woff2": {
+      "local": "/assets/rubik-ijwkbxyifdniv7nfrxyi0a-bbd3010929.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwkbxyifdniv7ndrxyi0a.woff2": {
+      "local": "/assets/rubik-ijwkbxyifdniv7ndrxyi0a-c73fc6daa2.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwkbxyifdniv7nprxyi0a.woff2": {
+      "local": "/assets/rubik-ijwkbxyifdniv7nprxyi0a-594586549f.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/google-fonts/fonts/rubik-ijwkbxyifdniv7nbrxw.woff2": {
+      "local": "/assets/rubik-ijwkbxyifdniv7nbrxw-db939b4901.woff2"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/linha-racks-banner-1.jpg": {
+      "local": "/assets/linha-racks-banner-1-910868a89b.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/linhasPrancheta-2-1.jpg": {
+      "local": "/assets/linhasPrancheta-2-1-aa941c9c33.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/linhasPrancheta-3-1.jpg": {
+      "local": "/assets/linhasPrancheta-3-1-39aa2e48f0.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/linha-racks-banner-1-300x195.jpg": {
+      "local": "/assets/linha-racks-banner-1-300x195-7e9b84d7e3.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/linhasPrancheta-2-1-300x195.jpg": {
+      "local": "/assets/linhasPrancheta-2-1-300x195-28593b6779.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/linhasPrancheta-3-1-300x195.jpg": {
+      "local": "/assets/linhasPrancheta-3-1-300x195-8644eac4f4.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/linhasPrancheta-4-1.jpg": {
+      "local": "/assets/linhasPrancheta-4-1-4cc54846fe.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/linhasPrancheta-4-1-300x195.jpg": {
+      "local": "/assets/linhasPrancheta-4-1-300x195-35f23a1fd3.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/favtack_Prancheta-1-1024x1024.png": {
+      "local": "/assets/favtack_Prancheta-1-1024x1024-4becbb7690.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Standard.jpg": {
+      "local": "/assets/Rack-Standard-6a502b9dda.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Standard-300x300.jpg": {
+      "local": "/assets/Rack-Standard-300x300-29cc64c3cb.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/favtack_Prancheta-1-768x768.png": {
+      "local": "/assets/favtack_Prancheta-1-768x768-1267e17be2.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/favtack_Prancheta-1-1536x1536.png": {
+      "local": "/assets/favtack_Prancheta-1-1536x1536-965680eb4b.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/favtack_Prancheta-1-2048x2048.png": {
+      "local": "/assets/favtack_Prancheta-1-2048x2048-7cb2d1b72c.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Standard-150x150.jpg": {
+      "local": "/assets/Rack-Standard-150x150-e0e2d7d4c5.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Standard-768x768.jpg": {
+      "local": "/assets/Rack-Standard-768x768-534eda8df4.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Server-1.jpg": {
+      "local": "/assets/Rack-Server-1-1e51716e18.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Aberto.jpg": {
+      "local": "/assets/Rack-Aberto-da9963dad6.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Bipartido.jpg": {
+      "local": "/assets/Rack-Bipartido-50a8344117.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-06_13_08-PM.png": {
+      "local": "/assets/ChatGPT-Image-May-21-2025-06_13_08-PM-a04120ab0f.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Server-1-300x300.jpg": {
+      "local": "/assets/Rack-Server-1-300x300-2c0197b6a3.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Aberto-300x300.jpg": {
+      "local": "/assets/Rack-Aberto-300x300-2312400a0c.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Bipartido-300x300.jpg": {
+      "local": "/assets/Rack-Bipartido-300x300-29546dd896.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-06_13_08-PM-300x300.png": {
+      "local": "/assets/ChatGPT-Image-May-21-2025-06_13_08-PM-300x300-d16cbcdc72.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Aberto-150x150.jpg": {
+      "local": "/assets/Rack-Aberto-150x150-cc328f357b.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Bipartido-150x150.jpg": {
+      "local": "/assets/Rack-Bipartido-150x150-1361e17278.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Server-1-150x150.jpg": {
+      "local": "/assets/Rack-Server-1-150x150-8572eb2ec5.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-06_13_08-PM-150x150.png": {
+      "local": "/assets/ChatGPT-Image-May-21-2025-06_13_08-PM-150x150-f1153ec75f.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Aberto-768x768.jpg": {
+      "local": "/assets/Rack-Aberto-768x768-8ad9274d9d.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-06_13_08-PM-768x768.png": {
+      "local": "/assets/ChatGPT-Image-May-21-2025-06_13_08-PM-768x768-fd9ab6e778.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Server-1-768x768.jpg": {
+      "local": "/assets/Rack-Server-1-768x768-48ce79514f.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Bipartido-768x768.jpg": {
+      "local": "/assets/Rack-Bipartido-768x768-1cdf8f3441.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-06_07_50-PM.png": {
+      "local": "/assets/ChatGPT-Image-May-21-2025-06_07_50-PM-07eb701fbb.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Standard-Kit.jpg": {
+      "local": "/assets/Rack-Standard-Kit-7adc2a30ca.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Demais-Modelos.jpg": {
+      "local": "/assets/Demais-Modelos-772014413e.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinete-com-Visor.jpg": {
+      "local": "/assets/Gabinete-com-Visor-8931ed142c.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-06_07_50-PM-300x300.png": {
+      "local": "/assets/ChatGPT-Image-May-21-2025-06_07_50-PM-300x300-7345253b78.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Standard-Kit-300x300.jpg": {
+      "local": "/assets/Rack-Standard-Kit-300x300-b152ea171d.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Demais-Modelos-300x300.jpg": {
+      "local": "/assets/Demais-Modelos-300x300-94622dcfe7.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinete-com-Visor-300x200.jpg": {
+      "local": "/assets/Gabinete-com-Visor-300x200-578b7eb12d.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-06_07_50-PM-150x150.png": {
+      "local": "/assets/ChatGPT-Image-May-21-2025-06_07_50-PM-150x150-9c308a7495.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Standard-Kit-150x150.jpg": {
+      "local": "/assets/Rack-Standard-Kit-150x150-923afb2bbf.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Demais-Modelos-150x150.jpg": {
+      "local": "/assets/Demais-Modelos-150x150-e32ccb70d4.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinete-com-Visor-1024x683.jpg": {
+      "local": "/assets/Gabinete-com-Visor-1024x683-c6b9624f19.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Rack-Standard-Kit-768x768.jpg": {
+      "local": "/assets/Rack-Standard-Kit-768x768-abda675785.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinete-com-Visor-768x512.jpg": {
+      "local": "/assets/Gabinete-com-Visor-768x512-423ce86d3d.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Demais-Modelos-768x768.jpg": {
+      "local": "/assets/Demais-Modelos-768x768-a303a18594.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinete-com-Porta-de-Aco.jpg": {
+      "local": "/assets/Gabinete-com-Porta-de-Aco-0385c5e9c6.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/rack-outdoor.jpg": {
+      "local": "/assets/rack-outdoor-115455884d.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinete-com-Porta-de-Aco-300x200.jpg": {
+      "local": "/assets/Gabinete-com-Porta-de-Aco-300x200-4f384e0760.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/rack-outdoor-300x200.jpg": {
+      "local": "/assets/rack-outdoor-300x200-a7a681dcf9.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinete-com-Porta-de-Aco-1024x683.jpg": {
+      "local": "/assets/Gabinete-com-Porta-de-Aco-1024x683-89cce6e5b7.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinete-com-Porta-de-Aco-768x512.jpg": {
+      "local": "/assets/Gabinete-com-Porta-de-Aco-768x512-d087584d1f.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/rack-outdoor-1024x683.jpg": {
+      "local": "/assets/rack-outdoor-1024x683-4fc05a2582.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/rack-outdoor-768x512.jpg": {
+      "local": "/assets/rack-outdoor-768x512-df3ef35db2.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/rack-outdoor2.jpg": {
+      "local": "/assets/rack-outdoor2-825356d78e.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/rack-outdoor2-300x200.jpg": {
+      "local": "/assets/rack-outdoor2-300x200-f96d2d114c.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/rack-outdoor2-1024x683.jpg": {
+      "local": "/assets/rack-outdoor2-1024x683-555f187480.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/rack-outdoor2-768x512.jpg": {
+      "local": "/assets/rack-outdoor2-768x512-c256d6f7fb.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Caixa-de-Montagem.jpg": {
+      "local": "/assets/Caixa-de-Montagem-c47cb6583d.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinetes-e-Caixas-em-INOX.jpg": {
+      "local": "/assets/Gabinetes-e-Caixas-em-INOX-f1176832a5.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Caixa-de-Montagem-300x200.jpg": {
+      "local": "/assets/Caixa-de-Montagem-300x200-b3ef46c713.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinetes-e-Caixas-em-INOX-300x200.jpg": {
+      "local": "/assets/Gabinetes-e-Caixas-em-INOX-300x200-9d2de525d0.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Caixa-de-Montagem-1024x683.jpg": {
+      "local": "/assets/Caixa-de-Montagem-1024x683-70099d4313.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Caixa-de-Montagem-768x512.jpg": {
+      "local": "/assets/Caixa-de-Montagem-768x512-b83c6ae4c7.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinetes-e-Caixas-em-INOX-1024x683.jpg": {
+      "local": "/assets/Gabinetes-e-Caixas-em-INOX-1024x683-2db8c6bf51.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Gabinetes-e-Caixas-em-INOX-768x512.jpg": {
+      "local": "/assets/Gabinetes-e-Caixas-em-INOX-768x512-42e40e993c.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Standard.jpg": {
+      "local": "/assets/Rack-Standard-834c20b838.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Server.jpg": {
+      "local": "/assets/Rack-Server-ea3ff96249.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Fiber-Robust.jpg": {
+      "local": "/assets/Fiber-Robust-efa3398d4d.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Standard-300x300.jpg": {
+      "local": "/assets/Rack-Standard-300x300-912f1a3acc.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Server-300x300.jpg": {
+      "local": "/assets/Rack-Server-300x300-223ded09d2.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Fiber-Robust-300x300.jpg": {
+      "local": "/assets/Fiber-Robust-300x300-5e358e0e73.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Fiber-Robust-150x150.jpg": {
+      "local": "/assets/Fiber-Robust-150x150-3806e9cb80.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Standard-150x150.jpg": {
+      "local": "/assets/Rack-Standard-150x150-76a8fe6e83.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Server-150x150.jpg": {
+      "local": "/assets/Rack-Server-150x150-bf41f83360.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Standard-768x768.jpg": {
+      "local": "/assets/Rack-Standard-768x768-2369b4e7c6.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Fiber-Robust-768x768.jpg": {
+      "local": "/assets/Fiber-Robust-768x768-8ad3cb2e59.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Server-768x768.jpg": {
+      "local": "/assets/Rack-Server-768x768-dd021b6a36.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Colocation.jpg": {
+      "local": "/assets/Rack-Colocation-d54f9017d3.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Porta-Perfurada-1.jpg": {
+      "local": "/assets/Porta-Perfurada-1-4bd0650996.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-Fixa.jpg": {
+      "local": "/assets/Bandeja-Fixa-7aa57cf336.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-Movel.jpg": {
+      "local": "/assets/Bandeja-Movel-5590d9b3c5.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Colocation-300x300.jpg": {
+      "local": "/assets/Rack-Colocation-300x300-a3bfd5e12c.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Porta-Perfurada-1-300x300.jpg": {
+      "local": "/assets/Porta-Perfurada-1-300x300-9c18db824a.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-Fixa-300x300.jpg": {
+      "local": "/assets/Bandeja-Fixa-300x300-647d6c5235.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-Movel-300x300.jpg": {
+      "local": "/assets/Bandeja-Movel-300x300-54785f8ff9.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-Movel-150x150.jpg": {
+      "local": "/assets/Bandeja-Movel-150x150-9e04aac60e.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-Fixa-150x150.jpg": {
+      "local": "/assets/Bandeja-Fixa-150x150-e38d9cdf4f.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Colocation-150x150.jpg": {
+      "local": "/assets/Rack-Colocation-150x150-7a74fdb3fd.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Porta-Perfurada-1-150x150.jpg": {
+      "local": "/assets/Porta-Perfurada-1-150x150-43f30d6dd3.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-Fixa-768x768.jpg": {
+      "local": "/assets/Bandeja-Fixa-768x768-f166ccde48.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-Movel-768x768.jpg": {
+      "local": "/assets/Bandeja-Movel-768x768-3e54a9cd33.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Porta-Perfurada-1-768x768.jpg": {
+      "local": "/assets/Porta-Perfurada-1-768x768-dbd8304e53.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/04/Rack-Colocation-768x768.jpg": {
+      "local": "/assets/Rack-Colocation-768x768-a093acecd2.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-com.jpg": {
+      "local": "/assets/Bandeja-com-71368abb1e.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Organizador-de-Cabos.jpg": {
+      "local": "/assets/Organizador-de-Cabos-e9972bacdb.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Acesso-Bilateral.jpg": {
+      "local": "/assets/Acesso-Bilateral-1639744856.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/PDUS-Gerenciaveis.jpg": {
+      "local": "/assets/PDUS-Gerenciaveis-68efdc949e.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-com-300x300.jpg": {
+      "local": "/assets/Bandeja-com-300x300-1355ba5c3d.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Organizador-de-Cabos-300x300.jpg": {
+      "local": "/assets/Organizador-de-Cabos-300x300-6e6d75ddc3.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Acesso-Bilateral-300x300.jpg": {
+      "local": "/assets/Acesso-Bilateral-300x300-89151d84a3.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/PDUS-Gerenciaveis-300x300.jpg": {
+      "local": "/assets/PDUS-Gerenciaveis-300x300-1f5c2a1904.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Acesso-Bilateral-150x150.jpg": {
+      "local": "/assets/Acesso-Bilateral-150x150-4f4cc29d9f.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-com-150x150.jpg": {
+      "local": "/assets/Bandeja-com-150x150-1d8d4c05b1.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/PDUS-Gerenciaveis-150x150.jpg": {
+      "local": "/assets/PDUS-Gerenciaveis-150x150-c51b0ccb26.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Organizador-de-Cabos-150x150.jpg": {
+      "local": "/assets/Organizador-de-Cabos-150x150-fca9dc9468.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Acesso-Bilateral-768x768.jpg": {
+      "local": "/assets/Acesso-Bilateral-768x768-519b79c8d8.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Organizador-de-Cabos-768x768.jpg": {
+      "local": "/assets/Organizador-de-Cabos-768x768-8820060c27.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Bandeja-com-768x768.jpg": {
+      "local": "/assets/Bandeja-com-768x768-5c668d5bf1.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/PDUS-Gerenciaveis-768x768.jpg": {
+      "local": "/assets/PDUS-Gerenciaveis-768x768-cd4a5b4515.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Calhas-de-Tomadas.jpg": {
+      "local": "/assets/Calhas-de-Tomadas-48856ca795.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Sistema-de-Filtro.jpg": {
+      "local": "/assets/Sistema-de-Filtro-780f7fe6a4.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Kit-de-Fixacao.jpg": {
+      "local": "/assets/Kit-de-Fixacao-86b630253b.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Calhas-de-Tomadas-300x300.jpg": {
+      "local": "/assets/Calhas-de-Tomadas-300x300-93d43e0ecd.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Sistema-de-Filtro-300x300.jpg": {
+      "local": "/assets/Sistema-de-Filtro-300x300-17da087ae6.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Kit-de-Fixacao-300x300.jpg": {
+      "local": "/assets/Kit-de-Fixacao-300x300-23d735c4fb.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Sistema-de-Filtro-150x150.jpg": {
+      "local": "/assets/Sistema-de-Filtro-150x150-4a4f536932.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Sistema-de-Filtro-768x768.jpg": {
+      "local": "/assets/Sistema-de-Filtro-768x768-8b77f51cc8.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Kit-de-Fixacao-150x150.jpg": {
+      "local": "/assets/Kit-de-Fixacao-150x150-b51af47c2c.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Calhas-de-Tomadas-150x150.jpg": {
+      "local": "/assets/Calhas-de-Tomadas-150x150-2c40d8aa5e.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Calhas-de-Tomadas-768x768.jpg": {
+      "local": "/assets/Calhas-de-Tomadas-768x768-c5b8240b1e.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Kit-de-Fixacao-768x768.jpg": {
+      "local": "/assets/Kit-de-Fixacao-768x768-84afbde256.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/distribuidor-energia.jpg": {
+      "local": "/assets/distribuidor-energia-4b2d58c4e0.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/dis-energia.jpg": {
+      "local": "/assets/dis-energia-69aef12cba.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Distribuidor-Geral-Optico-1.jpg": {
+      "local": "/assets/Distribuidor-Geral-Optico-1-5451727195.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/distribuidor-energia-300x200.jpg": {
+      "local": "/assets/distribuidor-energia-300x200-83c6339f65.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/dis-energia-300x200.jpg": {
+      "local": "/assets/dis-energia-300x200-1964065e3e.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Distribuidor-Geral-Optico-1-300x200.jpg": {
+      "local": "/assets/Distribuidor-Geral-Optico-1-300x200-a0798a9d8e.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/dis-energia-1024x683.jpg": {
+      "local": "/assets/dis-energia-1024x683-e56253ea7a.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Distribuidor-Geral-Optico-1-1024x683.jpg": {
+      "local": "/assets/Distribuidor-Geral-Optico-1-1024x683-3b678553f4.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/distribuidor-energia-1024x683.jpg": {
+      "local": "/assets/distribuidor-energia-1024x683-b070741fe3.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/dis-energia-768x512.jpg": {
+      "local": "/assets/dis-energia-768x512-5dc82b4767.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/distribuidor-energia-768x512.jpg": {
+      "local": "/assets/distribuidor-energia-768x512-32c4275732.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/Distribuidor-Geral-Optico-1-768x512.jpg": {
+      "local": "/assets/Distribuidor-Geral-Optico-1-768x512-c1ffcb5475.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/elemento.png": {
+      "local": "/assets/elemento-111aa203b8.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/whatscelular-1.png": {
+      "local": "/assets/whatscelular-1-9cb7dc7279.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/whatscelular-1-153x300.png": {
+      "local": "/assets/whatscelular-1-153x300-12ef39402c.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/2025/05/whatscelular-1-521x1024.png": {
+      "local": "/assets/whatscelular-1-521x1024-95b35bf0cf.png"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/thumbs/server1-r61z5lj6xch23cwvasqog9i55k3sgglreo0gcqhm00.jpg": {
+      "local": "/assets/server1-r61z5lj6xch23cwvasqog9i55k3sgglreo0gcqhm00-cffaab1091.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/thumbs/enerfia-r62j9e77jpao5rk3u5vmy470fulslz0x94jgw7b4ps.jpg": {
+      "local": "/assets/enerfia-r62j9e77jpao5rk3u5vmy470fulslz0x94jgw7b4ps-101453a2dc.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/uploads/elementor/thumbs/server3-r61z4yz2dbm6cptmyizmsf72wb6zbq47bkcsu3f25c.jpg": {
+      "local": "/assets/server3-r61z4yz2dbm6cptmyizmsf72wb6zbq47bkcsu3f25c-d8e3b0644a.jpg"
+    },
+    "https://racksolutions.com.br/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5": {
+      "local": "/assets/swiper-min-c52a3932ec.js"
+    }
+  },
+  "failures": []
+}

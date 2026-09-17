@@ -1,0 +1,108 @@
+/* Softer shapes and typography, retaining the navy identity. */
+body { background: #f5f7fa; }
+header { border-bottom: 0; box-shadow: 0 8px 30px #071a2c12; }
+nav { text-transform: none; letter-spacing: 0; font-size: 13px; gap: 30px; }
+.button, .button.small { border-radius: 999px; padding: 17px 25px; text-transform: none; letter-spacing: 0; font-size: 12px; }
+.hero-shell { border-radius: 0 0 64px 64px; padding-bottom: 35px; }
+.hero { gap: 45px; padding-top: 45px; padding-bottom: 40px; align-items: center; }
+.hero-copy { padding: 15px 0; }
+.hero h1 { font-family: Rubik, Arial, sans-serif; font-size: clamp(42px, 5.3vw, 75px); font-weight: 600; line-height: 1.13; letter-spacing: -2.8px; }
+.hero .intro { font-size: 15px; line-height: 1.85; max-width: 415px; }
+.eyebrow, .hero .eyebrow { font-family: Rubik, Arial, sans-serif; font-size: 10px; font-weight: 500; letter-spacing: 1px; line-height: 1.6; }
+.eyebrow>span { border-radius: 50%; }
+.hero-visual { clip-path: none; border-radius: 38px; min-height: 540px; margin: 0; background: #e7edf3; box-shadow: 0 25px 60px #0000001a; }
+.hero-visual::before { border-radius: 50%; width: 85%; height: 80%; background: #dbe5ef; border: none; }
+.hero-backtype, .vertical-label, .measure { display: none; }
+.hero-visual img { height: 420px; width: 85%; margin-top: -18px; }
+.visual-label { top: 25px; left: 28px; }
+.visual-caption { background: #ffffffeb; border: 0; border-radius: 20px; padding: 16px 20px; bottom: 20px; left: 20px; right: 20px; }
+.visual-caption strong { text-transform: none; letter-spacing: 0; }
+.visual-caption a { border-radius: 50%; }
+.hero-note p { font-family: Rubik, Arial, sans-serif; font-size: 10px; line-height: 1.9; }
+.applications { background: transparent; border: 0; margin-top: 30px; }
+.applications .container { gap: 12px; }
+.applications .container>span { color: #60758a; }
+.applications strong { color: #183d65; }
+.applications a { background: #e8eef5; color: #183d65; border: none; border-radius: 20px; padding: 25px 18px; transition: background .2s, transform .2s; }
+.applications a small { color: #516b86; font-family: Rubik, Arial, sans-serif; font-size: 8px; }
+.applications a>span { color: #183d65; }
+.applications a:hover { background: #d9e5f1; transform: translateY(-3px); }
+.catalog { padding-top: 65px; }
+.section-heading { border: none; padding-top: 0; align-items: center; }
+h2, .section-heading h2, .about h2, .contact h2 { font-family: Rubik, Arial, sans-serif; font-size: clamp(30px, 3.2vw, 45px); font-weight: 500; letter-spacing: -1.5px; line-height: 1.2; }
+.section-heading>p { font-size: 13px; }
+.catalog-tools { background: #eaf0f6; border-radius: 23px; padding: 18px; }
+.filter-label { border: none; padding-bottom: 0; font-family: Rubik, Arial, sans-serif; font-size: 9px; }
+.filters { gap: 7px; }
+.filters button { border: none; border-radius: 13px; padding: 14px 12px; line-height: 1.4; }
+.filters .active { padding-right: 30px; color: #fff; }
+.filters button:hover { background: #d9e4ef; }
+.filters .active:hover { background: #183d65; }
+.search { border: none; border-radius: 12px; background: #fff; padding: 8px 10px; gap: 6px; }
+.search input { font-size: 10px; }
+.product-grid { gap: 24px; }
+.product { background: #fff; border-radius: 24px; overflow: hidden; box-shadow: 0 5px 20px #102b4610; transition: box-shadow .2s, transform .2s; }
+.product:hover { transform: translateY(-4px); box-shadow: 0 14px 30px #102b461c; }
+.product-image { border-radius: 20px; margin: 10px 10px 0; height: 225px; }
+.product:hover .product-image { background: #f0f5fa; }
+.product-number { background: #edf2f7; border-radius: 50%; width: 26px; height: 26px; display: grid; place-items: center; }
+.product-body { padding: 18px 20px 20px; }
+.product h3 { font-size: 17px; line-height: 1.35; }
+.product-body>p { line-height: 1.8; }
+.product-body a { border: 0; background: #edf2f8; border-radius: 13px; padding: 13px 15px; font-size: 11px; letter-spacing: 0; text-transform: none; }
+.product-body a:hover { background: #183d65; }
+.about { width: min(1380px, 96%); margin: 0 auto; border: none; border-radius: 36px; padding: 60px 0; }
+.about-grid { grid-template-columns: 1fr 1fr; gap: 70px; }
+.about-mark { display: none; }
+.about p:not(.eyebrow) { font-size: 13px; }
+.about a { font-size: 12px; }
+.contact { padding-block: 80px; align-items: center; gap: 70px; }
+.contact>div>p:not(.eyebrow) { font-size: 14px; line-height: 1.8; max-width: 360px; }
+.contact form { background: #fff; padding: 30px; border-radius: 28px; box-shadow: 0 8px 35px #102b460c; }
+form label { font-family: Rubik, Arial, sans-serif; font-size: 11px; letter-spacing: 0; text-transform: none; margin-bottom: 18px; }
+form input, form select, form textarea { background: #f4f7fa; border: 1px solid #e1e7ee; border-radius: 12px; padding: 13px; font-size: 11px; }
+form .button { color: #fff; }
+footer { border-radius: 40px 40px 0 0; }
+.menu-toggle { border-radius: 12px; }
+@media (max-width: 1100px) {
+  .hero { gap: 30px; }
+  .hero-visual { min-height: 480px; }
+  .hero-visual img { height: 370px; }
+  .catalog-layout { grid-template-columns: 190px minmax(0, 1fr); gap: 20px; }
+  .applications a { padding: 22px 12px; font-size: 11px; }
+  .contact, .about-grid { gap: 35px; }
+}
+@media (max-width: 700px) {
+  .hero-shell { border-radius: 0 0 32px 32px; padding-bottom: 10px; }
+  .hero { gap: 28px; padding-top: 25px; padding-bottom: 25px; }
+  .hero h1 { font-size: clamp(39px, 10vw, 58px); letter-spacing: -1.7px; }
+  .hero .intro { font-size: 14px; }
+  .hero-visual { min-height: 420px; border-radius: 28px; }
+  .hero-visual img { height: 320px; }
+  .hero .eyebrow { font-size: 8px; }
+  .applications { margin-top: 15px; }
+  .applications .container { gap: 10px; }
+  .applications a { border: 0; border-radius: 17px; padding: 20px 15px; }
+  .catalog { padding-top: 42px; }
+  .section-heading h2, .about h2, .contact h2 { font-size: 33px; letter-spacing: -1px; }
+  .catalog-tools { padding: 15px; border-radius: 20px; }
+  .filters { gap: 6px; }
+  .search input { font-size: 12px; }
+  .product-grid { gap: 13px; }
+  .product { border-radius: 19px; }
+  .product-image { height: 165px; padding: 10px; margin: 6px 6px 0; }
+  .product-body { padding: 13px; }
+  .product h3 { font-size: 15px; }
+  .product-body a { font-size: 10px; padding: 11px 9px; gap: 4px; }
+  .about { border-radius: 26px; padding-block: 35px; }
+  .about-grid { grid-template-columns: 1fr; gap: 25px; }
+  .contact { padding-block: 45px; gap: 25px; }
+  .contact form { padding: 20px; border-radius: 23px; }
+  .form-row { grid-template-columns: 1fr; gap: 0; }
+  footer { border-radius: 28px 28px 0 0; }
+  nav { border-radius: 0 0 22px 22px; }
+}
+@media (max-width: 360px) {
+  .product-grid { grid-template-columns: 1fr; }
+  .product-image { height: 220px; }
+}

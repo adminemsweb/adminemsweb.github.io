@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Rack Standard",
+    "image": "/assets/Rack-Standard-6a502b9dda.jpg",
+    "description": "Ideal para organizar e proteger equipamentos de telecom com ventilação e acesso prático.",
+    "category": "rack"
+  },
+  {
+    "title": "Rack Server",
+    "image": "/assets/Rack-Server-1-1e51716e18.jpg",
+    "description": "Projetado para servidores e redes, com estrutura robusta e ventilação eficiente.",
+    "category": "rack"
+  },
+  {
+    "title": "Rack Aberto",
+    "image": "/assets/Rack-Aberto-da9963dad6.jpg",
+    "description": "Estrutura modular com encaixe lateral, portas reversíveis e fácil montagem e desmontagem.",
+    "category": "rack"
+  },
+  {
+    "title": "Rack Bipartido",
+    "image": "/assets/Rack-Bipartido-50a8344117.jpg",
+    "description": "Esse rack oferece compartimentos independentes, controle de acesso (inclusive biométrico), ventilação dedicada, e calhas individuais para rede e energia – garantindo proteção e autonomia para cada cliente.",
+    "category": "rack"
+  },
+  {
+    "title": "Mini Rack",
+    "image": "/assets/ChatGPT-Image-May-21-2025-06_13_08-PM-a04120ab0f.png",
+    "description": "Estrutura compacta ideal para organizar equipamentos em espaços reduzidos.",
+    "category": "rack"
+  },
+  {
+    "title": "Rack de Parede",
+    "image": "/assets/ChatGPT-Image-May-21-2025-06_07_50-PM-07eb701fbb.png",
+    "description": "Mais segurança e praticidade na manutenção de redes com design eficiente e ventilado.",
+    "category": "rack"
+  },
+  {
+    "title": "Rack Standard Kit",
+    "image": "/assets/Rack-Standard-Kit-7adc2a30ca.jpg",
+    "description": "Versão desmontada com manual incluso, pensada para facilitar transporte e armazenagem.",
+    "category": "rack"
+  },
+  {
+    "title": "Demais Modelos",
+    "image": "/assets/Demais-Modelos-772014413e.jpg",
+    "description": "Linha completa com gabinetes para Fibra Óptica e Rack Trave, com alto padrão de qualidade.",
+    "category": "rack"
+  },
+  {
+    "title": "Gabinete com Visor",
+    "image": "/assets/Gabinete-com-Visor-8931ed142c.jpg",
+    "description": "Organização e segurança com visor para visualização rápida dos equipamentos e status.",
+    "category": "energia"
+  },
+  {
+    "title": "Gabinete com Porta de Aço",
+    "image": "/assets/Gabinete-com-Porta-de-Aco-0385c5e9c6.jpg",
+    "description": "Alta proteção contra intempéries, poeira e acessos não autorizados em ambientes externos.",
+    "category": "energia"
+  },
+  {
+    "title": "Gabinete de Exterior",
+    "image": "/assets/rack-outdoor-115455884d.jpg",
+    "description": "Ideal para proteger equipamentos eletrônicos externos contra chuva, poeira e variações climáticas.",
+    "category": "energia"
+  },
+  {
+    "title": "Rack Outdoor",
+    "image": "/assets/rack-outdoor2-825356d78e.jpg",
+    "description": "Com teto duplo e aletas, pronto para ventilação forçada. Perfeito para áreas externas.",
+    "category": "energia"
+  },
+  {
+    "title": "Caixa de Montagem",
+    "image": "/assets/Caixa-de-Montagem-c47cb6583d.jpg",
+    "description": "Projetada para abrigar dispositivos, comandos, interruptores e componentes eletrônicos diversos.",
+    "category": "energia"
+  },
+  {
+    "title": "Gabinetes e Caixas em INOX",
+    "image": "/assets/Gabinetes-e-Caixas-em-INOX-f1176832a5.jpg",
+    "description": "Para ambientes agressivos com risco de corrosão. Ideal para indústrias química, alimentícia e sanitária.",
+    "category": "energia"
+  },
+  {
+    "title": "Rack Standard",
+    "image": "/assets/Rack-Standard-834c20b838.jpg",
+    "description": "Eficiente para o armazenamento e gerenciamento de equipamentos de telecomunicações;",
+    "category": "energia"
+  },
+  {
+    "title": "Rack Server",
+    "image": "/assets/Rack-Server-ea3ff96249.jpg",
+    "description": "Projetado para acomodar servidores, dispositivos de rede e equipamentos relacionados.",
+    "category": "energia"
+  },
+  {
+    "title": "Fiber Robust",
+    "image": "/assets/Fiber-Robust-efa3398d4d.jpg",
+    "description": "Permite acoplamento lateral, montagem e desmontagem e inversão nas portas dos dutos.",
+    "category": "energia"
+  },
+  {
+    "title": "Rack Colocation",
+    "image": "/assets/Rack-Colocation-d54f9017d3.jpg",
+    "description": "Gabinete Colocation foi projetado para atender aquelas demandas, onde compartilhar espaços é necessário, mas sem abrir mão da confidencialidade e restrições necessárias para cada cliente! Alguns detalhes cuidadosamente observados no projeto, como, acessos cabos, ventilação, dutos individuais para elétrica e rede optica, bem como acessos superior e inferior e chaves individuais por compartimento e/ou a possibilidade de acessos biométricos e calhas gerenciaveis (opcionais/consulte-nos).",
+    "category": "energia"
+  },
+  {
+    "title": "Porta Perfurada",
+    "image": "/assets/Porta-Perfurada-1-4bd0650996.jpg",
+    "description": "Garante ventilação ideal para racks e servidores, essencial em data centers e ambientes de TI.",
+    "category": "acessorios"
+  },
+  {
+    "title": "Bandeja Fixa",
+    "image": "/assets/Bandeja-Fixa-7aa57cf336.jpg",
+    "description": "Estável e resistente, é indicada para armazenar equipamentos de forma segura e permanente.",
+    "category": "acessorios"
+  },
+  {
+    "title": "Bandeja Móvel",
+    "image": "/assets/Bandeja-Movel-5590d9b3c5.jpg",
+    "description": "Ajustável e prática, facilita o acesso e otimiza o espaço interno do rack com flexibilidade.",
+    "category": "acessorios"
+  },
+  {
+    "title": "Bandeja com Fixação Frontal",
+    "image": "/assets/Bandeja-com-71368abb1e.jpg",
+    "description": "Fixação direta e segura sem necessidade de suporte traseiro.",
+    "category": "acessorios"
+  },
+  {
+    "title": "Organizador Cabos",
+    "image": "/assets/Organizador-de-Cabos-e9972bacdb.jpg",
+    "description": "Agrupa e direciona cabos, mantendo o interior dos racks limpo, seguro e bem estruturado.",
+    "category": "acessorios"
+  },
+  {
+    "title": "Bandeja para Acesso Bilateral",
+    "image": "/assets/Acesso-Bilateral-1639744856.jpg",
+    "description": "Permite acesso dos dois lados, otimizando a organização e manuseio.",
+    "category": "acessorios"
+  },
+  {
+    "title": "PDUs Gerenciáveis",
+    "image": "/assets/PDUS-Gerenciaveis-68efdc949e.jpg",
+    "description": "Distribuem energia com controle e monitoramento remoto, ideais para data centers e racks inteligentes.",
+    "category": "acessorios"
+  },
+  {
+    "title": "Calhas Tomadas",
+    "image": "/assets/Calhas-de-Tomadas-48856ca795.jpg",
+    "description": "Distribuição elétrica prática e segura com fixação estável para uso em racks e gabinetes.",
+    "category": "acessorios"
+  },
+  {
+    "title": "Sistema de Filtro e Grelha",
+    "image": "/assets/Sistema-de-Filtro-780f7fe6a4.jpg",
+    "description": "Melhora a ventilação interna dos gabinetes, filtrando impurezas e garantindo melhor qualidade do ar.",
+    "category": "acessorios"
+  },
+  {
+    "title": "Kit de Fixação",
+    "image": "/assets/Kit-de-Fixacao-86b630253b.jpg",
+    "description": "Conjunto de parafusos e presilhas ideal para montagem, instalação e ajustes em racks e acessórios.",
+    "category": "acessorios"
+  },
+  {
+    "title": "Distribuidor Interno Óptico",
+    "image": "/assets/distribuidor-energia-4b2d58c4e0.jpg",
+    "description": "Com capacidade para 12 a 144 fibras ópticas, aceita diversos modelos de adaptadores e pig tails.",
+    "category": "fibra"
+  },
+  {
+    "title": "Distribuidor de Energia",
+    "image": "/assets/dis-energia-69aef12cba.jpg",
+    "description": "Para 200 A ou 400 A, comporta até 20 disjuntores em gabinetes de 19” ou 21” com total segurança.",
+    "category": "fibra"
+  },
+  {
+    "title": "Distribuidor Geral Óptico",
+    "image": "/assets/Distribuidor-Geral-Optico-1-5451727195.jpg",
+    "description": "Ideal para acomodar sub-bastidores de fibra óptica com sistema exclusivo de organização interna.",
+    "category": "fibra"
+  }
+]

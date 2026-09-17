@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Rack Standard",
+    "description": "Ideal para organizar e proteger equipamentos de telecom com ventilação e acesso prático.",
+    "category": "rack",
+    "image": "/assets/optimized/9f34b23aa48b-960.webp",
+    "imageSrcset": "/assets/optimized/9f34b23aa48b-320.webp 320w, /assets/optimized/9f34b23aa48b-640.webp 640w, /assets/optimized/9f34b23aa48b-960.webp 960w"
+  },
+  {
+    "title": "Rack Server",
+    "description": "Projetado para servidores e redes, com estrutura robusta e ventilação eficiente.",
+    "category": "rack",
+    "image": "/assets/optimized/8618d4b32fb4-960.webp",
+    "imageSrcset": "/assets/optimized/8618d4b32fb4-320.webp 320w, /assets/optimized/8618d4b32fb4-640.webp 640w, /assets/optimized/8618d4b32fb4-960.webp 960w"
+  },
+  {
+    "title": "Rack Aberto",
+    "description": "Estrutura modular com encaixe lateral, portas reversíveis e fácil montagem e desmontagem.",
+    "category": "rack",
+    "image": "/assets/optimized/c9183d0315d0-960.webp",
+    "imageSrcset": "/assets/optimized/c9183d0315d0-320.webp 320w, /assets/optimized/c9183d0315d0-640.webp 640w, /assets/optimized/c9183d0315d0-960.webp 960w"
+  },
+  {
+    "title": "Rack Bipartido",
+    "description": "Esse rack oferece compartimentos independentes, controle de acesso (inclusive biométrico), ventilação dedicada, e calhas individuais para rede e energia – garantindo proteção e autonomia para cada cliente.",
+    "category": "rack",
+    "image": "/assets/optimized/5c4cb7c3e18d-960.webp",
+    "imageSrcset": "/assets/optimized/5c4cb7c3e18d-320.webp 320w, /assets/optimized/5c4cb7c3e18d-640.webp 640w, /assets/optimized/5c4cb7c3e18d-960.webp 960w"
+  },
+  {
+    "title": "Mini Rack",
+    "description": "Estrutura compacta ideal para organizar equipamentos em espaços reduzidos.",
+    "category": "rack",
+    "image": "/assets/optimized/44949691af0c-960.webp",
+    "imageSrcset": "/assets/optimized/44949691af0c-320.webp 320w, /assets/optimized/44949691af0c-640.webp 640w, /assets/optimized/44949691af0c-960.webp 960w"
+  },
+  {
+    "title": "Rack de Parede",
+    "description": "Mais segurança e praticidade na manutenção de redes com design eficiente e ventilado.",
+    "category": "rack",
+    "image": "/assets/optimized/9515803cefa4-960.webp",
+    "imageSrcset": "/assets/optimized/9515803cefa4-320.webp 320w, /assets/optimized/9515803cefa4-640.webp 640w, /assets/optimized/9515803cefa4-960.webp 960w"
+  },
+  {
+    "title": "Rack Standard Kit",
+    "description": "Versão desmontada com manual incluso, pensada para facilitar transporte e armazenagem.",
+    "category": "rack",
+    "image": "/assets/optimized/fa80432fd403-960.webp",
+    "imageSrcset": "/assets/optimized/fa80432fd403-320.webp 320w, /assets/optimized/fa80432fd403-640.webp 640w, /assets/optimized/fa80432fd403-960.webp 960w"
+  },
+  {
+    "title": "Demais Modelos",
+    "description": "Linha completa com gabinetes para Fibra Óptica e Rack Trave, com alto padrão de qualidade.",
+    "category": "rack",
+    "image": "/assets/optimized/098191172d3b-960.webp",
+    "imageSrcset": "/assets/optimized/098191172d3b-320.webp 320w, /assets/optimized/098191172d3b-640.webp 640w, /assets/optimized/098191172d3b-960.webp 960w"
+  },
+  {
+    "title": "Gabinete com Visor",
+    "description": "Organização e segurança com visor para visualização rápida dos equipamentos e status.",
+    "category": "energia",
+    "image": "/assets/optimized/80b4a13db5d1-960.webp",
+    "imageSrcset": "/assets/optimized/80b4a13db5d1-320.webp 320w, /assets/optimized/80b4a13db5d1-640.webp 640w, /assets/optimized/80b4a13db5d1-960.webp 960w"
+  },
+  {
+    "title": "Gabinete com Porta de Aço",
+    "description": "Alta proteção contra intempéries, poeira e acessos não autorizados em ambientes externos.",
+    "category": "energia",
+    "image": "/assets/optimized/37f6535f873a-960.webp",
+    "imageSrcset": "/assets/optimized/37f6535f873a-320.webp 320w, /assets/optimized/37f6535f873a-640.webp 640w, /assets/optimized/37f6535f873a-960.webp 960w"
+  },
+  {
+    "title": "Gabinete de Exterior",
+    "description": "Ideal para proteger equipamentos eletrônicos externos contra chuva, poeira e variações climáticas.",
+    "category": "energia",
+    "image": "/assets/optimized/323fc728fd3c-960.webp",
+    "imageSrcset": "/assets/optimized/323fc728fd3c-320.webp 320w, /assets/optimized/323fc728fd3c-640.webp 640w, /assets/optimized/323fc728fd3c-960.webp 960w"
+  },
+  {
+    "title": "Rack Outdoor",
+    "description": "Com teto duplo e aletas, pronto para ventilação forçada. Perfeito para áreas externas.",
+    "category": "energia",
+    "image": "/assets/optimized/b854f8797de2-960.webp",
+    "imageSrcset": "/assets/optimized/b854f8797de2-320.webp 320w, /assets/optimized/b854f8797de2-640.webp 640w, /assets/optimized/b854f8797de2-960.webp 960w"
+  },
+  {
+    "title": "Caixa de Montagem",
+    "description": "Projetada para abrigar dispositivos, comandos, interruptores e componentes eletrônicos diversos.",
+    "category": "energia",
+    "image": "/assets/optimized/2523407f5d7c-960.webp",
+    "imageSrcset": "/assets/optimized/2523407f5d7c-320.webp 320w, /assets/optimized/2523407f5d7c-640.webp 640w, /assets/optimized/2523407f5d7c-960.webp 960w"
+  },
+  {
+    "title": "Gabinetes e Caixas em INOX",
+    "description": "Para ambientes agressivos com risco de corrosão. Ideal para indústrias química, alimentícia e sanitária.",
+    "category": "energia",
+    "image": "/assets/optimized/d1a4bd4d5bea-960.webp",
+    "imageSrcset": "/assets/optimized/d1a4bd4d5bea-320.webp 320w, /assets/optimized/d1a4bd4d5bea-640.webp 640w, /assets/optimized/d1a4bd4d5bea-960.webp 960w"
+  },
+  {
+    "title": "Rack Standard",
+    "description": "Eficiente para o armazenamento e gerenciamento de equipamentos de telecomunicações;",
+    "category": "energia",
+    "image": "/assets/optimized/aa912cdeddab-960.webp",
+    "imageSrcset": "/assets/optimized/aa912cdeddab-320.webp 320w, /assets/optimized/aa912cdeddab-640.webp 640w, /assets/optimized/aa912cdeddab-960.webp 960w"
+  },
+  {
+    "title": "Rack Server",
+    "description": "Projetado para acomodar servidores, dispositivos de rede e equipamentos relacionados.",
+    "category": "energia",
+    "image": "/assets/optimized/f0781c1ffdff-960.webp",
+    "imageSrcset": "/assets/optimized/f0781c1ffdff-320.webp 320w, /assets/optimized/f0781c1ffdff-640.webp 640w, /assets/optimized/f0781c1ffdff-960.webp 960w"
+  },
+  {
+    "title": "Fiber Robust",
+    "description": "Permite acoplamento lateral, montagem e desmontagem e inversão nas portas dos dutos.",
+    "category": "energia",
+    "image": "/assets/optimized/8fa6fc4d3e40-960.webp",
+    "imageSrcset": "/assets/optimized/8fa6fc4d3e40-320.webp 320w, /assets/optimized/8fa6fc4d3e40-640.webp 640w, /assets/optimized/8fa6fc4d3e40-960.webp 960w"
+  },
+  {
+    "title": "Rack Colocation",
+    "description": "Gabinete Colocation foi projetado para atender aquelas demandas, onde compartilhar espaços é necessário, mas sem abrir mão da confidencialidade e restrições necessárias para cada cliente! Alguns detalhes cuidadosamente observados no projeto, como, acessos cabos, ventilação, dutos individuais para elétrica e rede optica, bem como acessos superior e inferior e chaves individuais por compartimento e/ou a possibilidade de acessos biométricos e calhas gerenciaveis (opcionais/consulte-nos).",
+    "category": "energia",
+    "image": "/assets/optimized/fd655eb7280a-960.webp",
+    "imageSrcset": "/assets/optimized/fd655eb7280a-320.webp 320w, /assets/optimized/fd655eb7280a-640.webp 640w, /assets/optimized/fd655eb7280a-960.webp 960w"
+  },
+  {
+    "title": "Porta Perfurada",
+    "description": "Garante ventilação ideal para racks e servidores, essencial em data centers e ambientes de TI.",
+    "category": "acessorios",
+    "image": "/assets/optimized/1518ed1fdd0e-960.webp",
+    "imageSrcset": "/assets/optimized/1518ed1fdd0e-320.webp 320w, /assets/optimized/1518ed1fdd0e-640.webp 640w, /assets/optimized/1518ed1fdd0e-960.webp 960w"
+  },
+  {
+    "title": "Bandeja Fixa",
+    "description": "Estável e resistente, é indicada para armazenar equipamentos de forma segura e permanente.",
+    "category": "acessorios",
+    "image": "/assets/optimized/138ce2e6b6b4-960.webp",
+    "imageSrcset": "/assets/optimized/138ce2e6b6b4-320.webp 320w, /assets/optimized/138ce2e6b6b4-640.webp 640w, /assets/optimized/138ce2e6b6b4-960.webp 960w"
+  },
+  {
+    "title": "Bandeja Móvel",
+    "description": "Ajustável e prática, facilita o acesso e otimiza o espaço interno do rack com flexibilidade.",
+    "category": "acessorios",
+    "image": "/assets/optimized/db10c0f51d61-960.webp",
+    "imageSrcset": "/assets/optimized/db10c0f51d61-320.webp 320w, /assets/optimized/db10c0f51d61-640.webp 640w, /assets/optimized/db10c0f51d61-960.webp 960w"
+  },
+  {
+    "title": "Bandeja com Fixação Frontal",
+    "description": "Fixação direta e segura sem necessidade de suporte traseiro.",
+    "category": "acessorios",
+    "image": "/assets/optimized/e07f087a5b2b-960.webp",
+    "imageSrcset": "/assets/optimized/e07f087a5b2b-320.webp 320w, /assets/optimized/e07f087a5b2b-640.webp 640w, /assets/optimized/e07f087a5b2b-960.webp 960w"
+  },
+  {
+    "title": "Organizador Cabos",
+    "description": "Agrupa e direciona cabos, mantendo o interior dos racks limpo, seguro e bem estruturado.",
+    "category": "acessorios",
+    "image": "/assets/optimized/f2a6046ee09e-960.webp",
+    "imageSrcset": "/assets/optimized/f2a6046ee09e-320.webp 320w, /assets/optimized/f2a6046ee09e-640.webp 640w, /assets/optimized/f2a6046ee09e-960.webp 960w"
+  },
+  {
+    "title": "Bandeja para Acesso Bilateral",
+    "description": "Permite acesso dos dois lados, otimizando a organização e manuseio.",
+    "category": "acessorios",
+    "image": "/assets/optimized/37901b9f936c-960.webp",
+    "imageSrcset": "/assets/optimized/37901b9f936c-320.webp 320w, /assets/optimized/37901b9f936c-640.webp 640w, /assets/optimized/37901b9f936c-960.webp 960w"
+  },
+  {
+    "title": "PDUs Gerenciáveis",
+    "description": "Distribuem energia com controle e monitoramento remoto, ideais para data centers e racks inteligentes.",
+    "category": "acessorios",
+    "image": "/assets/optimized/26f2e9127a8b-960.webp",
+    "imageSrcset": "/assets/optimized/26f2e9127a8b-320.webp 320w, /assets/optimized/26f2e9127a8b-640.webp 640w, /assets/optimized/26f2e9127a8b-960.webp 960w"
+  },
+  {
+    "title": "Calhas Tomadas",
+    "description": "Distribuição elétrica prática e segura com fixação estável para uso em racks e gabinetes.",
+    "category": "acessorios",
+    "image": "/assets/optimized/0691ac6f68ae-960.webp",
+    "imageSrcset": "/assets/optimized/0691ac6f68ae-320.webp 320w, /assets/optimized/0691ac6f68ae-640.webp 640w, /assets/optimized/0691ac6f68ae-960.webp 960w"
+  },
+  {
+    "title": "Sistema de Filtro e Grelha",
+    "description": "Melhora a ventilação interna dos gabinetes, filtrando impurezas e garantindo melhor qualidade do ar.",
+    "category": "acessorios",
+    "image": "/assets/optimized/7d48af415e70-960.webp",
+    "imageSrcset": "/assets/optimized/7d48af415e70-320.webp 320w, /assets/optimized/7d48af415e70-640.webp 640w, /assets/optimized/7d48af415e70-960.webp 960w"
+  },
+  {
+    "title": "Kit de Fixação",
+    "description": "Conjunto de parafusos e presilhas ideal para montagem, instalação e ajustes em racks e acessórios.",
+    "category": "acessorios",
+    "image": "/assets/optimized/cba9857ec25a-960.webp",
+    "imageSrcset": "/assets/optimized/cba9857ec25a-320.webp 320w, /assets/optimized/cba9857ec25a-640.webp 640w, /assets/optimized/cba9857ec25a-960.webp 960w"
+  },
+  {
+    "title": "Distribuidor Interno Óptico",
+    "description": "Com capacidade para 12 a 144 fibras ópticas, aceita diversos modelos de adaptadores e pig tails.",
+    "category": "fibra",
+    "image": "/assets/optimized/e20c2227e3d3-960.webp",
+    "imageSrcset": "/assets/optimized/e20c2227e3d3-320.webp 320w, /assets/optimized/e20c2227e3d3-640.webp 640w, /assets/optimized/e20c2227e3d3-960.webp 960w"
+  },
+  {
+    "title": "Distribuidor de Energia",
+    "description": "Para 200 A ou 400 A, comporta até 20 disjuntores em gabinetes de 19” ou 21” com total segurança.",
+    "category": "fibra",
+    "image": "/assets/optimized/c7b5e67a3e24-960.webp",
+    "imageSrcset": "/assets/optimized/c7b5e67a3e24-320.webp 320w, /assets/optimized/c7b5e67a3e24-640.webp 640w, /assets/optimized/c7b5e67a3e24-960.webp 960w"
+  },
+  {
+    "title": "Distribuidor Geral Óptico",
+    "description": "Ideal para acomodar sub-bastidores de fibra óptica com sistema exclusivo de organização interna.",
+    "category": "fibra",
+    "image": "/assets/optimized/d98ddf103fc4-960.webp",
+    "imageSrcset": "/assets/optimized/d98ddf103fc4-320.webp 320w, /assets/optimized/d98ddf103fc4-640.webp 640w, /assets/optimized/d98ddf103fc4-960.webp 960w"
+  }
+]
