@@ -1,6 +1,6 @@
 # Gabinete de Exterior
 
-> Gabinete de Exterior na linha Gabinetes e Energia da Metal Rack. Ideal para proteger equipamentos eletrônicos externos contra chuva, poeira e variações…
+> Gabinete de Exterior na linha Gabinetes e Energia da Metall Rack. Ideal para proteger equipamentos eletrônicos externos contra chuva, poeira e variações…
 
 Página: https://adminemsweb.github.io/produtos/gabinete-de-exterior/
 
@@ -50,6 +50,6 @@ Gabinetes e Energia
 
 ### Rack Outdoor ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

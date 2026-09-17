@@ -27,5 +27,5 @@ for(const url of urls) {
   assert.ok(fs.existsSync(path.join('dist',$('link[rel="alternate"][type="text/markdown"]').attr('href'))));
 }
 assert.ok(fs.readFileSync('dist/robots.txt','utf8').includes(`Sitemap: ${origin}/sitemap.xml`));
-assert.ok(fs.readFileSync('dist/llms.txt','utf8').startsWith('# Metal Rack'));
+assert.ok(fs.readFileSync('dist/llms.txt','utf8').startsWith('# Metall Rack'));
 console.log('SEO checks passed: 36 canonical URLs, unique descriptions and titles, sitemap, robots, llms, Markdown, structured data and responsive images.');

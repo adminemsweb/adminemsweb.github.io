@@ -1,6 +1,6 @@
-# Metal Rack | Racks e Gabinetes para TI e Telecom
+# Metall Rack | Racks e Gabinetes para TI e Telecom
 
-> Racks, gabinetes, acessórios e soluções para fibra. Conheça a Metal Rack em Sorocaba e solicite orçamento para seu projeto de TI, telecom e energia.
+> Racks, gabinetes, acessórios e soluções para fibra. Conheça a Metall Rack em Sorocaba e solicite orçamento para seu projeto de TI, telecom e energia.
 
 Página: https://adminemsweb.github.io/
 
@@ -74,7 +74,7 @@ A EMPRESA
 
 ## Tecnologia precisade uma boa base.
 
-Conheça a Metal Rack e nosso portfólio para organizar e proteger os equipamentos que fazem parte do seu negócio.
+Conheça a Metall Rack e nosso portfólio para organizar e proteger os equipamentos que fazem parte do seu negócio.
 
 De Sorocaba para projetos em todo o Brasil, com atendimento para entender a sua necessidade.
 
@@ -82,6 +82,6 @@ VAMOS CONVERSAR?
 
 ## Seu próximo projetocomeça por uma boa estrutura.
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

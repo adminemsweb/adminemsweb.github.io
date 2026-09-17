@@ -1,6 +1,6 @@
 # Fiber Robust
 
-> Fiber Robust na linha Gabinetes e Energia da Metal Rack. Permite acoplamento lateral, montagem e desmontagem e inversão nas portas dos dutos. Consulte…
+> Fiber Robust na linha Gabinetes e Energia da Metall Rack. Permite acoplamento lateral, montagem e desmontagem e inversão nas portas dos dutos. Consulte…
 
 Página: https://adminemsweb.github.io/produtos/fiber-robust/
 
@@ -50,6 +50,6 @@ Gabinetes e Energia
 
 ### Gabinete de Exterior ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

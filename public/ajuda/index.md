@@ -1,4 +1,4 @@
-# Como Escolher Racks e Gabinetes | Guia Metal Rack
+# Como Escolher Racks e Gabinetes | Guia Metall Rack
 
 > Precisa escolher um rack ou gabinete? Explore nosso guia por aplicação e saiba quais informações enviar para consultar o modelo e solicitar orçamento.
 
@@ -54,6 +54,6 @@ VAMOS CONVERSAR?
 
 ## Seu próximo projetocomeça por uma boa estrutura.
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

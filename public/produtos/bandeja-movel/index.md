@@ -1,6 +1,6 @@
 # Bandeja Móvel
 
-> Bandeja Móvel na linha Acessórios da Metal Rack. Ajustável e prática, facilita o acesso e otimiza o espaço interno do rack com flexibilidade. Consulte…
+> Bandeja Móvel na linha Acessórios da Metall Rack. Ajustável e prática, facilita o acesso e otimiza o espaço interno do rack com flexibilidade. Consulte…
 
 Página: https://adminemsweb.github.io/produtos/bandeja-movel/
 
@@ -50,6 +50,6 @@ Acessórios
 
 ### Bandeja com Fixação Frontal ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

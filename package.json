@@ -1,7 +1,7 @@
 {
   "name": "rack",
   "version": "1.0.0",
-  "description": "Frontend local da Metal Rack",
+  "description": "Frontend local da Metall Rack",
   "scripts": {
     "predev": "node scripts/optimize-images.mjs && node scripts/generate-site.mjs",
     "dev": "vite --host 127.0.0.1 --port 5174 --strictPort",

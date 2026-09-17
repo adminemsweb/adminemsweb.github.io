@@ -1,6 +1,6 @@
 # Rack Standard
 
-> Rack Standard na linha Gabinetes e Energia da Metal Rack. Eficiente para o armazenamento e gerenciamento de equipamentos de telecomunicações; Consulte…
+> Rack Standard na linha Gabinetes e Energia da Metall Rack. Eficiente para o armazenamento e gerenciamento de equipamentos de telecomunicações; Consulte…
 
 Página: https://adminemsweb.github.io/produtos/rack-standard-energia/
 
@@ -50,6 +50,6 @@ Gabinetes e Energia
 
 ### Gabinete de Exterior ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

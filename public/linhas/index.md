@@ -1,6 +1,6 @@
-# Linhas de Racks, Energia, Acessórios e Fibra | Metal Rack
+# Linhas de Racks, Energia, Acessórios e Fibra | Metall Rack
 
-> Conheça as quatro linhas Metal Rack: racks e telecom, gabinetes e energia, acessórios e fibra. Encontre a estrutura para a sua instalação.
+> Conheça as quatro linhas Metall Rack: racks e telecom, gabinetes e energia, acessórios e fibra. Encontre a estrutura para a sua instalação.
 
 Página: https://adminemsweb.github.io/linhas/
 
@@ -44,6 +44,6 @@ VAMOS CONVERSAR?
 
 ## Seu próximo projetocomeça por uma boa estrutura.
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

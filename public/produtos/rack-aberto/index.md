@@ -1,6 +1,6 @@
 # Rack Aberto
 
-> Rack Aberto na linha Racks e Telecom da Metal Rack. Estrutura modular com encaixe lateral, portas reversíveis e fácil montagem e desmontagem. Consulte…
+> Rack Aberto na linha Racks e Telecom da Metall Rack. Estrutura modular com encaixe lateral, portas reversíveis e fácil montagem e desmontagem. Consulte…
 
 Página: https://adminemsweb.github.io/produtos/rack-aberto/
 
@@ -50,6 +50,6 @@ Racks e Telecom
 
 ### Rack Bipartido ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
-  <title>Metal Rack</title>
+  <title>Metall Rack</title>
   <rect width="64" height="64" rx="13" fill="#192C3D"/>
   <path d="M13 46V24h7v3c2-3 5-4 8-4 4 0 6 2 8 5 2-3 5-5 9-5 6 0 9 4 9 11v12h-8V35c0-4-1-6-4-6s-4 2-4 6v11h-8V35c0-4-1-6-4-6s-5 2-5 6v11z" fill="#FFFFFF"/>
   <path d="M13 13h23l-4 5H13zm28 0h13v5H37z" fill="#9DC3E9"/>

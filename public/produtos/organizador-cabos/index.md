@@ -1,6 +1,6 @@
 # Organizador Cabos
 
-> Organizador Cabos na linha Acessórios da Metal Rack. Agrupa e direciona cabos, mantendo o interior dos racks limpo, seguro e bem estruturado. Consulte…
+> Organizador Cabos na linha Acessórios da Metall Rack. Agrupa e direciona cabos, mantendo o interior dos racks limpo, seguro e bem estruturado. Consulte…
 
 Página: https://adminemsweb.github.io/produtos/organizador-cabos/
 
@@ -50,6 +50,6 @@ Acessórios
 
 ### Bandeja Móvel ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

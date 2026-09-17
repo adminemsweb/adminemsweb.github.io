@@ -1,6 +1,6 @@
-# Produtos | Racks, Gabinetes e Acessórios | Metal Rack
+# Produtos | Racks, Gabinetes e Acessórios | Metall Rack
 
-> Explore 31 produtos Metal Rack: racks, gabinetes, bandejas, acessórios e fibra. Filtre por linha e solicite orçamento com atendimento em Sorocaba.
+> Explore 31 produtos Metall Rack: racks, gabinetes, bandejas, acessórios e fibra. Filtre por linha e solicite orçamento com atendimento em Sorocaba.
 
 Página: https://adminemsweb.github.io/produtos/
 
@@ -208,6 +208,6 @@ VAMOS CONVERSAR?
 
 ## Seu próximo projetocomeça por uma boa estrutura.
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

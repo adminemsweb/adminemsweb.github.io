@@ -1,6 +1,6 @@
 # Distribuidor Interno Óptico
 
-> Distribuidor Interno Óptico na linha Linha Fibra da Metal Rack. Com capacidade para 12 a 144 fibras ópticas, aceita diversos modelos de adaptadores e pig tails.…
+> Distribuidor Interno Óptico na linha Linha Fibra da Metall Rack. Com capacidade para 12 a 144 fibras ópticas, aceita diversos modelos de adaptadores e pig…
 
 Página: https://adminemsweb.github.io/produtos/distribuidor-interno-optico/
 
@@ -46,6 +46,6 @@ Linha Fibra
 
 ### Distribuidor Geral Óptico ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

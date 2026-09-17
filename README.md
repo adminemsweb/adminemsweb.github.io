@@ -1,6 +1,6 @@
-# Metal Rack — frontend local
+# Metall Rack — frontend local
 
-Site estático Metal Rack com 36 páginas. Referências de organização: Rack Solutions (https://racksolutions.com.br/), D2W (https://d2w.ind.br/) e RackFort (https://www.rackfort.com.br/). HTML, imagens, fontes e estilos locais; não precisa de WordPress.
+Site estático Metall Rack com 36 páginas. Referências de organização: Rack Solutions (https://racksolutions.com.br/), D2W (https://d2w.ind.br/) e RackFort (https://www.rackfort.com.br/). HTML, imagens, fontes e estilos locais; não precisa de WordPress.
 
 ## Executar
 
@@ -13,7 +13,7 @@ npm run dev
 
 Produção: https://adminemsweb.github.io/
 
-O workflow `.github/workflows/deploy.yml` compila e valida o site a cada push na branch `main`, e publica `dist/` no GitHub Pages. Pull requests executam as verificações sem publicar. Também é possível iniciar a publicação em Actions → Validate and deploy Metal Rack → Run workflow.
+O workflow `.github/workflows/deploy.yml` compila e valida o site a cada push na branch `main`, e publica `dist/` no GitHub Pages. Pull requests executam as verificações sem publicar. Também é possível iniciar a publicação em Actions → Validate and deploy Metall Rack → Run workflow.
 
 Para um domínio próprio, primeiro configure e verifique o DNS/domínio no GitHub Pages. Depois atualize `SITE_URL` nas variáveis do repositório e `src/site-config.json`. A variável opcional `GOOGLE_SITE_VERIFICATION` adiciona a tag de verificação do Search Console na compilação.
 

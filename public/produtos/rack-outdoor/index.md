@@ -1,6 +1,6 @@
 # Rack Outdoor
 
-> Rack Outdoor na linha Gabinetes e Energia da Metal Rack. Com teto duplo e aletas, pronto para ventilação forçada. Perfeito para áreas externas. Consulte…
+> Rack Outdoor na linha Gabinetes e Energia da Metall Rack. Com teto duplo e aletas, pronto para ventilação forçada. Perfeito para áreas externas. Consulte…
 
 Página: https://adminemsweb.github.io/produtos/rack-outdoor/
 
@@ -50,6 +50,6 @@ Gabinetes e Energia
 
 ### Gabinete de Exterior ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

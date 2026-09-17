@@ -1,6 +1,6 @@
 # Gabinete com Porta de Aço
 
-> Gabinete com Porta de Aço na linha Gabinetes e Energia da Metal Rack. Alta proteção contra intempéries, poeira e acessos não autorizados em ambientes externos.…
+> Gabinete com Porta de Aço na linha Gabinetes e Energia da Metall Rack. Alta proteção contra intempéries, poeira e acessos não autorizados em ambientes externos.…
 
 Página: https://adminemsweb.github.io/produtos/gabinete-com-porta-de-aco/
 
@@ -50,6 +50,6 @@ Gabinetes e Energia
 
 ### Rack Outdoor ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

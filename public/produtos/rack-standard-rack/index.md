@@ -1,6 +1,6 @@
 # Rack Standard
 
-> Rack Standard na linha Racks e Telecom da Metal Rack. Ideal para organizar e proteger equipamentos de telecom com ventilação e acesso prático. Consulte…
+> Rack Standard na linha Racks e Telecom da Metall Rack. Ideal para organizar e proteger equipamentos de telecom com ventilação e acesso prático. Consulte…
 
 Página: https://adminemsweb.github.io/produtos/rack-standard-rack/
 
@@ -50,6 +50,6 @@ Racks e Telecom
 
 ### Rack Bipartido ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

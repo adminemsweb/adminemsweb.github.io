@@ -1,14 +1,14 @@
-# Metal Rack em Sorocaba | Conheça a Empresa
+# Metall Rack em Sorocaba | Conheça a Empresa
 
-> Conheça a Metal Rack em Sorocaba, SP. Portfólio de racks, gabinetes e acessórios para TI, telecom e energia, com entregas em território brasileiro.
+> Conheça a Metall Rack em Sorocaba, SP. Portfólio de racks, gabinetes e acessórios para TI, telecom e energia, com entregas em território brasileiro.
 
 Página: https://adminemsweb.github.io/empresa/
 
 A EMPRESA
 
-A Metal Rack reúne soluções para a infraestrutura que sustenta o dia a dia do seu negócio.
+A Metall Rack reúne soluções para a infraestrutura que sustenta o dia a dia do seu negócio.
 
-CONHEÇA A METAL RACK
+CONHEÇA A METALL RACK
 
 ## Seu projeto começacom a escolha certa.
 
@@ -32,7 +32,7 @@ ONDE ESTAMOS
 
 ## Sorocaba, São Paulo.
 
-### Fale com a Metal Rack
+### Fale com a Metall Rack
 
 SMARTFLOW TECNOLOGIA EIRELICNPJ 19.252.656/0001-20
 
@@ -40,6 +40,6 @@ VAMOS CONVERSAR?
 
 ## Seu próximo projetocomeça por uma boa estrutura.
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

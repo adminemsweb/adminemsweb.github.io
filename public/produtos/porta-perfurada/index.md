@@ -1,6 +1,6 @@
 # Porta Perfurada
 
-> Porta Perfurada na linha Acessórios da Metal Rack. Garante ventilação ideal para racks e servidores, essencial em data centers e ambientes de TI. Consulte…
+> Porta Perfurada na linha Acessórios da Metall Rack. Garante ventilação ideal para racks e servidores, essencial em data centers e ambientes de TI. Consulte…
 
 Página: https://adminemsweb.github.io/produtos/porta-perfurada/
 
@@ -50,6 +50,6 @@ Acessórios
 
 ### Bandeja com Fixação Frontal ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

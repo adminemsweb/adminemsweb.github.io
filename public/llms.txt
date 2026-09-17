@@ -1,15 +1,15 @@
-# Metal Rack
+# Metall Rack
 
 > Catálogo de racks, gabinetes, acessórios e fibra para TI, telecomunicações e energia. Atendimento em Sorocaba, SP, e entregas em território brasileiro.
 
-SMARTFLOW TECNOLOGIA EIRELI, CNPJ 19.252.656/0001-20. Contato comercial: +55 11 92104-7460; comercial@metalrack.com.br. As configurações, os preços e os prazos são consultados no atendimento. Não há pagamento online no site.
+SMARTFLOW TECNOLOGIA EIRELI, CNPJ 19.252.656/0001-20. Contato comercial: +55 11 92104-7460; comercial@metallrack.com.br. As configurações, os preços e os prazos são consultados no atendimento. Não há pagamento online no site.
 
 ## Páginas principais
-- [Metal Rack | Racks e Gabinetes para TI e Telecom](https://adminemsweb.github.io/index.md): Racks, gabinetes, acessórios e soluções para fibra. Conheça a Metal Rack em Sorocaba e solicite orçamento para seu projeto de TI, telecom e energia.
-- [Produtos | Racks, Gabinetes e Acessórios | Metal Rack](https://adminemsweb.github.io/produtos/index.md): Explore 31 produtos Metal Rack: racks, gabinetes, bandejas, acessórios e fibra. Filtre por linha e solicite orçamento com atendimento em Sorocaba.
-- [Linhas de Racks, Energia, Acessórios e Fibra | Metal Rack](https://adminemsweb.github.io/linhas/index.md): Conheça as quatro linhas Metal Rack: racks e telecom, gabinetes e energia, acessórios e fibra. Encontre a estrutura para a sua instalação.
-- [Metal Rack em Sorocaba | Conheça a Empresa](https://adminemsweb.github.io/empresa/index.md): Conheça a Metal Rack em Sorocaba, SP. Portfólio de racks, gabinetes e acessórios para TI, telecom e energia, com entregas em território brasileiro.
-- [Como Escolher Racks e Gabinetes | Guia Metal Rack](https://adminemsweb.github.io/ajuda/index.md): Precisa escolher um rack ou gabinete? Explore nosso guia por aplicação e saiba quais informações enviar para consultar o modelo e solicitar orçamento.
+- [Metall Rack | Racks e Gabinetes para TI e Telecom](https://adminemsweb.github.io/index.md): Racks, gabinetes, acessórios e soluções para fibra. Conheça a Metall Rack em Sorocaba e solicite orçamento para seu projeto de TI, telecom e energia.
+- [Produtos | Racks, Gabinetes e Acessórios | Metall Rack](https://adminemsweb.github.io/produtos/index.md): Explore 31 produtos Metall Rack: racks, gabinetes, bandejas, acessórios e fibra. Filtre por linha e solicite orçamento com atendimento em Sorocaba.
+- [Linhas de Racks, Energia, Acessórios e Fibra | Metall Rack](https://adminemsweb.github.io/linhas/index.md): Conheça as quatro linhas Metall Rack: racks e telecom, gabinetes e energia, acessórios e fibra. Encontre a estrutura para a sua instalação.
+- [Metall Rack em Sorocaba | Conheça a Empresa](https://adminemsweb.github.io/empresa/index.md): Conheça a Metall Rack em Sorocaba, SP. Portfólio de racks, gabinetes e acessórios para TI, telecom e energia, com entregas em território brasileiro.
+- [Como Escolher Racks e Gabinetes | Guia Metall Rack](https://adminemsweb.github.io/ajuda/index.md): Precisa escolher um rack ou gabinete? Explore nosso guia por aplicação e saiba quais informações enviar para consultar o modelo e solicitar orçamento.
 
 ## Produtos
 - [Rack Standard — Racks e Telecom](https://adminemsweb.github.io/produtos/rack-standard-rack/index.md)

@@ -5,5 +5,5 @@ export function productPath(product, catalog) {
   return `/produtos/${slug}${suffix}/`;
 }
 export function quoteUrl(product) {
-  return `https://wa.me/5511921047460?text=${encodeURIComponent(`Olá! Gostaria de solicitar um orçamento para ${product.title} (${categoryNames[product.category]}), da Metal Rack.`)}`;
+  return `https://wa.me/5511921047460?text=${encodeURIComponent(`Olá! Gostaria de solicitar um orçamento para ${product.title} (${categoryNames[product.category]}), da Metall Rack.`)}`;
 }

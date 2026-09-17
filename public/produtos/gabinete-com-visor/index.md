@@ -1,6 +1,6 @@
 # Gabinete com Visor
 
-> Gabinete com Visor na linha Gabinetes e Energia da Metal Rack. Organização e segurança com visor para visualização rápida dos equipamentos e status. Consulte…
+> Gabinete com Visor na linha Gabinetes e Energia da Metall Rack. Organização e segurança com visor para visualização rápida dos equipamentos e status. Consulte…
 
 Página: https://adminemsweb.github.io/produtos/gabinete-com-visor/
 
@@ -50,6 +50,6 @@ Gabinetes e Energia
 
 ### Rack Outdoor ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

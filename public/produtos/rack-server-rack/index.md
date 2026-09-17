@@ -1,6 +1,6 @@
 # Rack Server
 
-> Rack Server na linha Racks e Telecom da Metal Rack. Projetado para servidores e redes, com estrutura robusta e ventilação eficiente. Consulte configurações e…
+> Rack Server na linha Racks e Telecom da Metall Rack. Projetado para servidores e redes, com estrutura robusta e ventilação eficiente. Consulte configurações e…
 
 Página: https://adminemsweb.github.io/produtos/rack-server-rack/
 
@@ -50,6 +50,6 @@ Racks e Telecom
 
 ### Rack Bipartido ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

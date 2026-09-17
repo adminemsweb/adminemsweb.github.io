@@ -28,7 +28,7 @@ fs.writeFileSync('index.html', home.html());
 
 for (const product of products) {
   const $ = cheerio.load(home.html());
-  $('title').text(`${product.title} | ${categoryNames[product.category]} | Metal Rack`);
+  $('title').text(`${product.title} | ${categoryNames[product.category]} | Metall Rack`);
   $('meta[name="description"]').attr('content', product.description);
   $('head').append('<link rel="stylesheet" href="/src/product-page.css">');
   $('head link[href="/src/responsive-motion.css"]').appendTo('head');

@@ -1,6 +1,6 @@
 # Gabinetes e Caixas em INOX
 
-> Gabinetes e Caixas em INOX na linha Gabinetes e Energia da Metal Rack. Para ambientes agressivos com risco de corrosão. Ideal para indústrias química,…
+> Gabinetes e Caixas em INOX na linha Gabinetes e Energia da Metall Rack. Para ambientes agressivos com risco de corrosão. Ideal para indústrias química,…
 
 Página: https://adminemsweb.github.io/produtos/gabinetes-e-caixas-em-inox/
 
@@ -50,6 +50,6 @@ Gabinetes e Energia
 
 ### Gabinete de Exterior ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

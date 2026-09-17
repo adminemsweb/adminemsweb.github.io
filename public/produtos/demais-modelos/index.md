@@ -1,6 +1,6 @@
 # Demais Modelos
 
-> Demais Modelos na linha Racks e Telecom da Metal Rack. Linha completa com gabinetes para Fibra Óptica e Rack Trave, com alto padrão de qualidade. Consulte…
+> Demais Modelos na linha Racks e Telecom da Metall Rack. Linha completa com gabinetes para Fibra Óptica e Rack Trave, com alto padrão de qualidade. Consulte…
 
 Página: https://adminemsweb.github.io/produtos/demais-modelos/
 
@@ -50,6 +50,6 @@ Racks e Telecom
 
 ### Rack Aberto ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

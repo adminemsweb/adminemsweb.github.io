@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" fill="none">
-<title>Metal Rack</title>
+<title>Metall Rack</title>
 <path d="M5 9h39v46H5z" stroke="#182633" stroke-width="3"/>
 <path d="M12 19h25M12 32h25M12 45h25" stroke="#386A96" stroke-width="5"/>
 <path d="M19 9V4h11v5M19 55v5h11v-5" stroke="#182633" stroke-width="3"/>
-<text x="60" y="32" fill="#182633" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" letter-spacing="-.8">METAL RACK</text>
+<text x="60" y="32" fill="#182633" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" letter-spacing="-.8">METALL RACK</text>
 <text x="61" y="49" fill="#596775" font-family="Arial,Helvetica,sans-serif" font-size="8" letter-spacing="2.5">INFRAESTRUTURA E TECNOLOGIA</text>
 </svg>

@@ -1,6 +1,6 @@
 # PDUs Gerenciáveis
 
-> PDUs Gerenciáveis na linha Acessórios da Metal Rack. Distribuem energia com controle e monitoramento remoto, ideais para data centers e racks inteligentes.…
+> PDUs Gerenciáveis na linha Acessórios da Metall Rack. Distribuem energia com controle e monitoramento remoto, ideais para data centers e racks inteligentes.…
 
 Página: https://adminemsweb.github.io/produtos/pdus-gerenciaveis/
 
@@ -50,6 +50,6 @@ Acessórios
 
 ### Bandeja Móvel ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

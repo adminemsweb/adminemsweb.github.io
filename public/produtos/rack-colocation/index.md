@@ -1,6 +1,6 @@
 # Rack Colocation
 
-> Rack Colocation na linha Gabinetes e Energia da Metal Rack. Gabinete Colocation foi projetado para atender aquelas demandas, onde compartilhar espaços é…
+> Rack Colocation na linha Gabinetes e Energia da Metall Rack. Gabinete Colocation foi projetado para atender aquelas demandas, onde compartilhar espaços é…
 
 Página: https://adminemsweb.github.io/produtos/rack-colocation/
 
@@ -50,6 +50,6 @@ Gabinetes e Energia
 
 ### Gabinete de Exterior ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

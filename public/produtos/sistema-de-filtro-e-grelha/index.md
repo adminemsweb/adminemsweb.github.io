@@ -1,6 +1,6 @@
 # Sistema de Filtro e Grelha
 
-> Sistema de Filtro e Grelha na linha Acessórios da Metal Rack. Melhora a ventilação interna dos gabinetes, filtrando impurezas e garantindo melhor qualidade do…
+> Sistema de Filtro e Grelha na linha Acessórios da Metall Rack. Melhora a ventilação interna dos gabinetes, filtrando impurezas e garantindo melhor qualidade do…
 
 Página: https://adminemsweb.github.io/produtos/sistema-de-filtro-e-grelha/
 
@@ -50,6 +50,6 @@ Acessórios
 
 ### Bandeja Móvel ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

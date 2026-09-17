@@ -1,6 +1,6 @@
 # Bandeja Fixa
 
-> Bandeja Fixa na linha Acessórios da Metal Rack. Estável e resistente, é indicada para armazenar equipamentos de forma segura e permanente. Consulte…
+> Bandeja Fixa na linha Acessórios da Metall Rack. Estável e resistente, é indicada para armazenar equipamentos de forma segura e permanente. Consulte…
 
 Página: https://adminemsweb.github.io/produtos/bandeja-fixa/
 
@@ -50,6 +50,6 @@ Acessórios
 
 ### Bandeja com Fixação Frontal ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

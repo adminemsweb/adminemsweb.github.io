@@ -1,6 +1,6 @@
 # Rack Bipartido
 
-> Rack Bipartido na linha Racks e Telecom da Metal Rack. Esse rack oferece compartimentos independentes, controle de acesso (inclusive biométrico), ventilação…
+> Rack Bipartido na linha Racks e Telecom da Metall Rack. Esse rack oferece compartimentos independentes, controle de acesso (inclusive biométrico), ventilação…
 
 Página: https://adminemsweb.github.io/produtos/rack-bipartido/
 
@@ -50,6 +50,6 @@ Racks e Telecom
 
 ### Rack Aberto ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

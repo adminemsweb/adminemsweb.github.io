@@ -1,6 +1,6 @@
 # Caixa de Montagem
 
-> Caixa de Montagem na linha Gabinetes e Energia da Metal Rack. Projetada para abrigar dispositivos, comandos, interruptores e componentes eletrônicos diversos.…
+> Caixa de Montagem na linha Gabinetes e Energia da Metall Rack. Projetada para abrigar dispositivos, comandos, interruptores e componentes eletrônicos diversos.…
 
 Página: https://adminemsweb.github.io/produtos/caixa-de-montagem/
 
@@ -50,6 +50,6 @@ Gabinetes e Energia
 
 ### Gabinete de Exterior ↗
 
-Contato comercial: +55 11 92104-7460. E-mail: comercial@metalrack.com.br.
+Contato comercial: +55 11 92104-7460. E-mail: comercial@metallrack.com.br.
 
 Preços, configurações, disponibilidade e entrega devem ser consultados no atendimento.

@@ -1,4 +1,4 @@
-name: Validate and deploy Metal Rack
+name: Validate and deploy Metall Rack
 
 on:
   push:
