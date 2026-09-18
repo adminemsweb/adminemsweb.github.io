@@ -2,7 +2,7 @@
 
 > Demais Modelos na linha Racks e Telecom da Metall Rack. Linha completa com gabinetes para Fibra Óptica e Rack Trave, com alto padrão de qualidade. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/demais-modelos/
+Página: https://metallrack.com.br/produtos/demais-modelos/
 
 Racks e Telecom
 

@@ -2,7 +2,7 @@
 
 > Distribuidor Geral Óptico na linha Linha Fibra da Metall Rack. Ideal para acomodar sub-bastidores de fibra óptica com sistema exclusivo de organização interna.…
 
-Página: https://adminemsweb.github.io/produtos/distribuidor-geral-optico/
+Página: https://metallrack.com.br/produtos/distribuidor-geral-optico/
 
 Linha Fibra
 

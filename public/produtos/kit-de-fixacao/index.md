@@ -2,7 +2,7 @@
 
 > Kit de Fixação na linha Acessórios da Metall Rack. Conjunto de parafusos e presilhas ideal para montagem, instalação e ajustes em racks e acessórios. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/kit-de-fixacao/
+Página: https://metallrack.com.br/produtos/kit-de-fixacao/
 
 Acessórios
 

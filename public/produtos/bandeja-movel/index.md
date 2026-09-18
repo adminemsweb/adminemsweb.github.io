@@ -2,7 +2,7 @@
 
 > Bandeja Móvel na linha Acessórios da Metall Rack. Ajustável e prática, facilita o acesso e otimiza o espaço interno do rack com flexibilidade. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/bandeja-movel/
+Página: https://metallrack.com.br/produtos/bandeja-movel/
 
 Acessórios
 

@@ -2,7 +2,7 @@
 
 > Rack Standard Kit na linha Racks e Telecom da Metall Rack. Versão desmontada com manual incluso, pensada para facilitar transporte e armazenagem. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/rack-standard-kit/
+Página: https://metallrack.com.br/produtos/rack-standard-kit/
 
 Racks e Telecom
 

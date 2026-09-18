@@ -2,7 +2,7 @@
 
 > Gabinete de Exterior na linha Gabinetes e Energia da Metall Rack. Ideal para proteger equipamentos eletrônicos externos contra chuva, poeira e variações…
 
-Página: https://adminemsweb.github.io/produtos/gabinete-de-exterior/
+Página: https://metallrack.com.br/produtos/gabinete-de-exterior/
 
 Gabinetes e Energia
 

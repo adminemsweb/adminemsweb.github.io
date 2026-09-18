@@ -2,7 +2,7 @@
 
 > Mini Rack na linha Racks e Telecom da Metall Rack. Estrutura compacta ideal para organizar equipamentos em espaços reduzidos. Consulte configurações e orçamento.
 
-Página: https://adminemsweb.github.io/produtos/mini-rack/
+Página: https://metallrack.com.br/produtos/mini-rack/
 
 Racks e Telecom
 

@@ -2,7 +2,7 @@
 
 > Porta Perfurada na linha Acessórios da Metall Rack. Garante ventilação ideal para racks e servidores, essencial em data centers e ambientes de TI. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/porta-perfurada/
+Página: https://metallrack.com.br/produtos/porta-perfurada/
 
 Acessórios
 

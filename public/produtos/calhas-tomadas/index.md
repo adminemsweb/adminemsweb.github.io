@@ -2,7 +2,7 @@
 
 > Calhas Tomadas na linha Acessórios da Metall Rack. Distribuição elétrica prática e segura com fixação estável para uso em racks e gabinetes. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/calhas-tomadas/
+Página: https://metallrack.com.br/produtos/calhas-tomadas/
 
 Acessórios
 

@@ -2,7 +2,7 @@
 
 > Precisa escolher um rack ou gabinete? Explore nosso guia por aplicação e saiba quais informações enviar para consultar o modelo e solicitar orçamento.
 
-Página: https://adminemsweb.github.io/ajuda/
+Página: https://metallrack.com.br/ajuda/
 
 AJUDA PARA ESCOLHER
 

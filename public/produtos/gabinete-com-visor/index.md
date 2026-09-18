@@ -2,7 +2,7 @@
 
 > Gabinete com Visor na linha Gabinetes e Energia da Metall Rack. Organização e segurança com visor para visualização rápida dos equipamentos e status. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/gabinete-com-visor/
+Página: https://metallrack.com.br/produtos/gabinete-com-visor/
 
 Gabinetes e Energia
 

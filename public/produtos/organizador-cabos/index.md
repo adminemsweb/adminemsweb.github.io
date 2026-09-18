@@ -2,7 +2,7 @@
 
 > Organizador Cabos na linha Acessórios da Metall Rack. Agrupa e direciona cabos, mantendo o interior dos racks limpo, seguro e bem estruturado. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/organizador-cabos/
+Página: https://metallrack.com.br/produtos/organizador-cabos/
 
 Acessórios
 

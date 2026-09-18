@@ -2,7 +2,7 @@
 
 > Racks, gabinetes, acessórios e soluções para fibra. Conheça a Metall Rack em Sorocaba e solicite orçamento para seu projeto de TI, telecom e energia.
 
-Página: https://adminemsweb.github.io/
+Página: https://metallrack.com.br/
 
 ESTRUTURA PARA O QUE VEM A SEGUIR
 

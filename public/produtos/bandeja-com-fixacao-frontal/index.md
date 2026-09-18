@@ -2,7 +2,7 @@
 
 > Bandeja com Fixação Frontal na linha Acessórios da Metall Rack. Fixação direta e segura sem necessidade de suporte traseiro. Consulte configurações e orçamento.
 
-Página: https://adminemsweb.github.io/produtos/bandeja-com-fixacao-frontal/
+Página: https://metallrack.com.br/produtos/bandeja-com-fixacao-frontal/
 
 Acessórios
 

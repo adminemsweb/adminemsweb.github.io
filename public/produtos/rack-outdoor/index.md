@@ -2,7 +2,7 @@
 
 > Rack Outdoor na linha Gabinetes e Energia da Metall Rack. Com teto duplo e aletas, pronto para ventilação forçada. Perfeito para áreas externas. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/rack-outdoor/
+Página: https://metallrack.com.br/produtos/rack-outdoor/
 
 Gabinetes e Energia
 

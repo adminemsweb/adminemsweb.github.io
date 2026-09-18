@@ -2,7 +2,7 @@
 
 > Rack Server na linha Racks e Telecom da Metall Rack. Projetado para servidores e redes, com estrutura robusta e ventilação eficiente. Consulte configurações e…
 
-Página: https://adminemsweb.github.io/produtos/rack-server-rack/
+Página: https://metallrack.com.br/produtos/rack-server-rack/
 
 Racks e Telecom
 

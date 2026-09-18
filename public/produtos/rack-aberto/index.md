@@ -2,7 +2,7 @@
 
 > Rack Aberto na linha Racks e Telecom da Metall Rack. Estrutura modular com encaixe lateral, portas reversíveis e fácil montagem e desmontagem. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/rack-aberto/
+Página: https://metallrack.com.br/produtos/rack-aberto/
 
 Racks e Telecom
 

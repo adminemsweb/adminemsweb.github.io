@@ -2,7 +2,7 @@
 
 > Gabinete com Porta de Aço na linha Gabinetes e Energia da Metall Rack. Alta proteção contra intempéries, poeira e acessos não autorizados em ambientes externos.…
 
-Página: https://adminemsweb.github.io/produtos/gabinete-com-porta-de-aco/
+Página: https://metallrack.com.br/produtos/gabinete-com-porta-de-aco/
 
 Gabinetes e Energia
 

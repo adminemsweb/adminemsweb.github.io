@@ -2,7 +2,7 @@
 
 > Rack Server na linha Gabinetes e Energia da Metall Rack. Projetado para acomodar servidores, dispositivos de rede e equipamentos relacionados. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/rack-server-energia/
+Página: https://metallrack.com.br/produtos/rack-server-energia/
 
 Gabinetes e Energia
 

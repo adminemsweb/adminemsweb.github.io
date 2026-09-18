@@ -2,7 +2,7 @@
 
 > Distribuidor Interno Óptico na linha Linha Fibra da Metall Rack. Com capacidade para 12 a 144 fibras ópticas, aceita diversos modelos de adaptadores e pig…
 
-Página: https://adminemsweb.github.io/produtos/distribuidor-interno-optico/
+Página: https://metallrack.com.br/produtos/distribuidor-interno-optico/
 
 Linha Fibra
 

@@ -2,7 +2,7 @@
 
 > Rack Colocation na linha Gabinetes e Energia da Metall Rack. Gabinete Colocation foi projetado para atender aquelas demandas, onde compartilhar espaços é…
 
-Página: https://adminemsweb.github.io/produtos/rack-colocation/
+Página: https://metallrack.com.br/produtos/rack-colocation/
 
 Gabinetes e Energia
 

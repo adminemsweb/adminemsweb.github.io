@@ -2,7 +2,7 @@
 
 > Bandeja Fixa na linha Acessórios da Metall Rack. Estável e resistente, é indicada para armazenar equipamentos de forma segura e permanente. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/bandeja-fixa/
+Página: https://metallrack.com.br/produtos/bandeja-fixa/
 
 Acessórios
 

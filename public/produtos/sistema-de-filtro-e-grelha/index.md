@@ -2,7 +2,7 @@
 
 > Sistema de Filtro e Grelha na linha Acessórios da Metall Rack. Melhora a ventilação interna dos gabinetes, filtrando impurezas e garantindo melhor qualidade do…
 
-Página: https://adminemsweb.github.io/produtos/sistema-de-filtro-e-grelha/
+Página: https://metallrack.com.br/produtos/sistema-de-filtro-e-grelha/
 
 Acessórios
 

@@ -2,7 +2,7 @@
 
 > PDUs Gerenciáveis na linha Acessórios da Metall Rack. Distribuem energia com controle e monitoramento remoto, ideais para data centers e racks inteligentes.…
 
-Página: https://adminemsweb.github.io/produtos/pdus-gerenciaveis/
+Página: https://metallrack.com.br/produtos/pdus-gerenciaveis/
 
 Acessórios
 

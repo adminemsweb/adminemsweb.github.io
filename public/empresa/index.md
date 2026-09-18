@@ -2,7 +2,7 @@
 
 > Conheça a Metall Rack em Sorocaba, SP. Portfólio de racks, gabinetes e acessórios para TI, telecom e energia, com entregas em território brasileiro.
 
-Página: https://adminemsweb.github.io/empresa/
+Página: https://metallrack.com.br/empresa/
 
 A EMPRESA
 

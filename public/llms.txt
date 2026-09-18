@@ -5,41 +5,41 @@
 SMARTFLOW TECNOLOGIA EIRELI, CNPJ 19.252.656/0001-20. Contato comercial: +55 11 92104-7460; comercial@metallrack.com.br. As configurações, os preços e os prazos são consultados no atendimento. Não há pagamento online no site.
 
 ## Páginas principais
-- [Metall Rack | Racks e Gabinetes para TI e Telecom](https://adminemsweb.github.io/index.md): Racks, gabinetes, acessórios e soluções para fibra. Conheça a Metall Rack em Sorocaba e solicite orçamento para seu projeto de TI, telecom e energia.
-- [Produtos | Racks, Gabinetes e Acessórios | Metall Rack](https://adminemsweb.github.io/produtos/index.md): Explore 31 produtos Metall Rack: racks, gabinetes, bandejas, acessórios e fibra. Filtre por linha e solicite orçamento com atendimento em Sorocaba.
-- [Linhas de Racks, Energia, Acessórios e Fibra | Metall Rack](https://adminemsweb.github.io/linhas/index.md): Conheça as quatro linhas Metall Rack: racks e telecom, gabinetes e energia, acessórios e fibra. Encontre a estrutura para a sua instalação.
-- [Metall Rack em Sorocaba | Conheça a Empresa](https://adminemsweb.github.io/empresa/index.md): Conheça a Metall Rack em Sorocaba, SP. Portfólio de racks, gabinetes e acessórios para TI, telecom e energia, com entregas em território brasileiro.
-- [Como Escolher Racks e Gabinetes | Guia Metall Rack](https://adminemsweb.github.io/ajuda/index.md): Precisa escolher um rack ou gabinete? Explore nosso guia por aplicação e saiba quais informações enviar para consultar o modelo e solicitar orçamento.
+- [Metall Rack | Racks e Gabinetes para TI e Telecom](https://metallrack.com.br/index.md): Racks, gabinetes, acessórios e soluções para fibra. Conheça a Metall Rack em Sorocaba e solicite orçamento para seu projeto de TI, telecom e energia.
+- [Produtos | Racks, Gabinetes e Acessórios | Metall Rack](https://metallrack.com.br/produtos/index.md): Explore 31 produtos Metall Rack: racks, gabinetes, bandejas, acessórios e fibra. Filtre por linha e solicite orçamento com atendimento em Sorocaba.
+- [Linhas de Racks, Energia, Acessórios e Fibra | Metall Rack](https://metallrack.com.br/linhas/index.md): Conheça as quatro linhas Metall Rack: racks e telecom, gabinetes e energia, acessórios e fibra. Encontre a estrutura para a sua instalação.
+- [Metall Rack em Sorocaba | Conheça a Empresa](https://metallrack.com.br/empresa/index.md): Conheça a Metall Rack em Sorocaba, SP. Portfólio de racks, gabinetes e acessórios para TI, telecom e energia, com entregas em território brasileiro.
+- [Como Escolher Racks e Gabinetes | Guia Metall Rack](https://metallrack.com.br/ajuda/index.md): Precisa escolher um rack ou gabinete? Explore nosso guia por aplicação e saiba quais informações enviar para consultar o modelo e solicitar orçamento.
 
 ## Produtos
-- [Rack Standard — Racks e Telecom](https://adminemsweb.github.io/produtos/rack-standard-rack/index.md)
-- [Rack Server — Racks e Telecom](https://adminemsweb.github.io/produtos/rack-server-rack/index.md)
-- [Rack Aberto — Racks e Telecom](https://adminemsweb.github.io/produtos/rack-aberto/index.md)
-- [Rack Bipartido — Racks e Telecom](https://adminemsweb.github.io/produtos/rack-bipartido/index.md)
-- [Mini Rack — Racks e Telecom](https://adminemsweb.github.io/produtos/mini-rack/index.md)
-- [Rack de Parede — Racks e Telecom](https://adminemsweb.github.io/produtos/rack-de-parede/index.md)
-- [Rack Standard Kit — Racks e Telecom](https://adminemsweb.github.io/produtos/rack-standard-kit/index.md)
-- [Demais Modelos — Racks e Telecom](https://adminemsweb.github.io/produtos/demais-modelos/index.md)
-- [Gabinete com Visor — Gabinetes e Energia](https://adminemsweb.github.io/produtos/gabinete-com-visor/index.md)
-- [Gabinete com Porta de Aço — Gabinetes e Energia](https://adminemsweb.github.io/produtos/gabinete-com-porta-de-aco/index.md)
-- [Gabinete de Exterior — Gabinetes e Energia](https://adminemsweb.github.io/produtos/gabinete-de-exterior/index.md)
-- [Rack Outdoor — Gabinetes e Energia](https://adminemsweb.github.io/produtos/rack-outdoor/index.md)
-- [Caixa de Montagem — Gabinetes e Energia](https://adminemsweb.github.io/produtos/caixa-de-montagem/index.md)
-- [Gabinetes e Caixas em INOX — Gabinetes e Energia](https://adminemsweb.github.io/produtos/gabinetes-e-caixas-em-inox/index.md)
-- [Rack Standard — Gabinetes e Energia](https://adminemsweb.github.io/produtos/rack-standard-energia/index.md)
-- [Rack Server — Gabinetes e Energia](https://adminemsweb.github.io/produtos/rack-server-energia/index.md)
-- [Fiber Robust — Gabinetes e Energia](https://adminemsweb.github.io/produtos/fiber-robust/index.md)
-- [Rack Colocation — Gabinetes e Energia](https://adminemsweb.github.io/produtos/rack-colocation/index.md)
-- [Porta Perfurada — Acessórios](https://adminemsweb.github.io/produtos/porta-perfurada/index.md)
-- [Bandeja Fixa — Acessórios](https://adminemsweb.github.io/produtos/bandeja-fixa/index.md)
-- [Bandeja Móvel — Acessórios](https://adminemsweb.github.io/produtos/bandeja-movel/index.md)
-- [Bandeja com Fixação Frontal — Acessórios](https://adminemsweb.github.io/produtos/bandeja-com-fixacao-frontal/index.md)
-- [Organizador Cabos — Acessórios](https://adminemsweb.github.io/produtos/organizador-cabos/index.md)
-- [Bandeja para Acesso Bilateral — Acessórios](https://adminemsweb.github.io/produtos/bandeja-para-acesso-bilateral/index.md)
-- [PDUs Gerenciáveis — Acessórios](https://adminemsweb.github.io/produtos/pdus-gerenciaveis/index.md)
-- [Calhas Tomadas — Acessórios](https://adminemsweb.github.io/produtos/calhas-tomadas/index.md)
-- [Sistema de Filtro e Grelha — Acessórios](https://adminemsweb.github.io/produtos/sistema-de-filtro-e-grelha/index.md)
-- [Kit de Fixação — Acessórios](https://adminemsweb.github.io/produtos/kit-de-fixacao/index.md)
-- [Distribuidor Interno Óptico — Linha Fibra](https://adminemsweb.github.io/produtos/distribuidor-interno-optico/index.md)
-- [Distribuidor de Energia — Linha Fibra](https://adminemsweb.github.io/produtos/distribuidor-de-energia/index.md)
-- [Distribuidor Geral Óptico — Linha Fibra](https://adminemsweb.github.io/produtos/distribuidor-geral-optico/index.md)
+- [Rack Standard — Racks e Telecom](https://metallrack.com.br/produtos/rack-standard-rack/index.md)
+- [Rack Server — Racks e Telecom](https://metallrack.com.br/produtos/rack-server-rack/index.md)
+- [Rack Aberto — Racks e Telecom](https://metallrack.com.br/produtos/rack-aberto/index.md)
+- [Rack Bipartido — Racks e Telecom](https://metallrack.com.br/produtos/rack-bipartido/index.md)
+- [Mini Rack — Racks e Telecom](https://metallrack.com.br/produtos/mini-rack/index.md)
+- [Rack de Parede — Racks e Telecom](https://metallrack.com.br/produtos/rack-de-parede/index.md)
+- [Rack Standard Kit — Racks e Telecom](https://metallrack.com.br/produtos/rack-standard-kit/index.md)
+- [Demais Modelos — Racks e Telecom](https://metallrack.com.br/produtos/demais-modelos/index.md)
+- [Gabinete com Visor — Gabinetes e Energia](https://metallrack.com.br/produtos/gabinete-com-visor/index.md)
+- [Gabinete com Porta de Aço — Gabinetes e Energia](https://metallrack.com.br/produtos/gabinete-com-porta-de-aco/index.md)
+- [Gabinete de Exterior — Gabinetes e Energia](https://metallrack.com.br/produtos/gabinete-de-exterior/index.md)
+- [Rack Outdoor — Gabinetes e Energia](https://metallrack.com.br/produtos/rack-outdoor/index.md)
+- [Caixa de Montagem — Gabinetes e Energia](https://metallrack.com.br/produtos/caixa-de-montagem/index.md)
+- [Gabinetes e Caixas em INOX — Gabinetes e Energia](https://metallrack.com.br/produtos/gabinetes-e-caixas-em-inox/index.md)
+- [Rack Standard — Gabinetes e Energia](https://metallrack.com.br/produtos/rack-standard-energia/index.md)
+- [Rack Server — Gabinetes e Energia](https://metallrack.com.br/produtos/rack-server-energia/index.md)
+- [Fiber Robust — Gabinetes e Energia](https://metallrack.com.br/produtos/fiber-robust/index.md)
+- [Rack Colocation — Gabinetes e Energia](https://metallrack.com.br/produtos/rack-colocation/index.md)
+- [Porta Perfurada — Acessórios](https://metallrack.com.br/produtos/porta-perfurada/index.md)
+- [Bandeja Fixa — Acessórios](https://metallrack.com.br/produtos/bandeja-fixa/index.md)
+- [Bandeja Móvel — Acessórios](https://metallrack.com.br/produtos/bandeja-movel/index.md)
+- [Bandeja com Fixação Frontal — Acessórios](https://metallrack.com.br/produtos/bandeja-com-fixacao-frontal/index.md)
+- [Organizador Cabos — Acessórios](https://metallrack.com.br/produtos/organizador-cabos/index.md)
+- [Bandeja para Acesso Bilateral — Acessórios](https://metallrack.com.br/produtos/bandeja-para-acesso-bilateral/index.md)
+- [PDUs Gerenciáveis — Acessórios](https://metallrack.com.br/produtos/pdus-gerenciaveis/index.md)
+- [Calhas Tomadas — Acessórios](https://metallrack.com.br/produtos/calhas-tomadas/index.md)
+- [Sistema de Filtro e Grelha — Acessórios](https://metallrack.com.br/produtos/sistema-de-filtro-e-grelha/index.md)
+- [Kit de Fixação — Acessórios](https://metallrack.com.br/produtos/kit-de-fixacao/index.md)
+- [Distribuidor Interno Óptico — Linha Fibra](https://metallrack.com.br/produtos/distribuidor-interno-optico/index.md)
+- [Distribuidor de Energia — Linha Fibra](https://metallrack.com.br/produtos/distribuidor-de-energia/index.md)
+- [Distribuidor Geral Óptico — Linha Fibra](https://metallrack.com.br/produtos/distribuidor-geral-optico/index.md)

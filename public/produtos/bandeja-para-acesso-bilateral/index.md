@@ -2,7 +2,7 @@
 
 > Bandeja para Acesso Bilateral na linha Acessórios da Metall Rack. Permite acesso dos dois lados, otimizando a organização e manuseio. Consulte configurações e…
 
-Página: https://adminemsweb.github.io/produtos/bandeja-para-acesso-bilateral/
+Página: https://metallrack.com.br/produtos/bandeja-para-acesso-bilateral/
 
 Acessórios
 

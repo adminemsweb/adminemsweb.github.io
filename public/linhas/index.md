@@ -2,7 +2,7 @@
 
 > Conheça as quatro linhas Metall Rack: racks e telecom, gabinetes e energia, acessórios e fibra. Encontre a estrutura para a sua instalação.
 
-Página: https://adminemsweb.github.io/linhas/
+Página: https://metallrack.com.br/linhas/
 
 NOSSAS LINHAS
 

@@ -2,7 +2,7 @@
 
 > Rack Standard na linha Gabinetes e Energia da Metall Rack. Eficiente para o armazenamento e gerenciamento de equipamentos de telecomunicações; Consulte…
 
-Página: https://adminemsweb.github.io/produtos/rack-standard-energia/
+Página: https://metallrack.com.br/produtos/rack-standard-energia/
 
 Gabinetes e Energia
 

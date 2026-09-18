@@ -2,7 +2,7 @@
 
 > Gabinetes e Caixas em INOX na linha Gabinetes e Energia da Metall Rack. Para ambientes agressivos com risco de corrosão. Ideal para indústrias química,…
 
-Página: https://adminemsweb.github.io/produtos/gabinetes-e-caixas-em-inox/
+Página: https://metallrack.com.br/produtos/gabinetes-e-caixas-em-inox/
 
 Gabinetes e Energia
 

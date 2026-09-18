@@ -2,7 +2,7 @@
 
 > Explore 31 produtos Metall Rack: racks, gabinetes, bandejas, acessórios e fibra. Filtre por linha e solicite orçamento com atendimento em Sorocaba.
 
-Página: https://adminemsweb.github.io/produtos/
+Página: https://metallrack.com.br/produtos/
 
 CATÁLOGO DE PRODUTOS
 

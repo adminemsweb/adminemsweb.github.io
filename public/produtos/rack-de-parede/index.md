@@ -2,7 +2,7 @@
 
 > Rack de Parede na linha Racks e Telecom da Metall Rack. Mais segurança e praticidade na manutenção de redes com design eficiente e ventilado. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/rack-de-parede/
+Página: https://metallrack.com.br/produtos/rack-de-parede/
 
 Racks e Telecom
 

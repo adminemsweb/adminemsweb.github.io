@@ -2,7 +2,7 @@
 
 > Caixa de Montagem na linha Gabinetes e Energia da Metall Rack. Projetada para abrigar dispositivos, comandos, interruptores e componentes eletrônicos diversos.…
 
-Página: https://adminemsweb.github.io/produtos/caixa-de-montagem/
+Página: https://metallrack.com.br/produtos/caixa-de-montagem/
 
 Gabinetes e Energia
 

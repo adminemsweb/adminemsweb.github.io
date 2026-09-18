@@ -2,7 +2,7 @@
 
 > Rack Bipartido na linha Racks e Telecom da Metall Rack. Esse rack oferece compartimentos independentes, controle de acesso (inclusive biométrico), ventilação…
 
-Página: https://adminemsweb.github.io/produtos/rack-bipartido/
+Página: https://metallrack.com.br/produtos/rack-bipartido/
 
 Racks e Telecom
 

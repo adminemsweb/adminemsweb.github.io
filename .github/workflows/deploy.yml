@@ -1,30 +1,20 @@
-name: Validate and deploy Metall Rack
-
+name: Validate and deploy Metall Rack to VPS
 on:
   push:
     branches: [main]
   pull_request:
     branches: [main]
   workflow_dispatch:
-
 permissions:
   contents: read
-
 concurrency:
-  group: pages-${{ github.ref }}
+  group: metallrack-vps
   cancel-in-progress: false
-
 env:
-  SITE_URL: ${{ vars.SITE_URL || 'https://adminemsweb.github.io' }}
-  GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
-
+  SITE_URL: https://metallrack.com.br
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-    permissions:
-      contents: read
-      pages: read
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -34,29 +24,23 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: npm run check:seo
-      - name: Check pages and production assets
-        run: node scripts/check-product-pages.mjs --static
-      - name: Configure Pages
-        if: github.event_name != 'pull_request'
-        uses: actions/configure-pages@v5
-      - name: Upload production site
-        if: github.event_name != 'pull_request'
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-
+      - run: node scripts/check-product-pages.mjs --static
   deploy:
-    if: github.event_name != 'pull_request'
     needs: build
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    permissions:
-      pages: write
-      id-token: write
+    timeout-minutes: 15
     environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      name: production
+      url: https://metallrack.com.br
     steps:
-      - name: Publish to production
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy over restricted SSH connection
+        env:
+          SSH_KEY: ${{ secrets.VPS_SSH_KEY }}
+          KNOWN_HOSTS: ${{ secrets.VPS_KNOWN_HOSTS }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          printf '%s\n' "$KNOWN_HOSTS" > ~/.ssh/known_hosts
+          ssh -o BatchMode=yes -o StrictHostKeyChecking=yes -o ConnectTimeout=20 root@89.116.74.235 deploy

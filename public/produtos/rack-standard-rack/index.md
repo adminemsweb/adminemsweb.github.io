@@ -2,7 +2,7 @@
 
 > Rack Standard na linha Racks e Telecom da Metall Rack. Ideal para organizar e proteger equipamentos de telecom com ventilação e acesso prático. Consulte…
 
-Página: https://adminemsweb.github.io/produtos/rack-standard-rack/
+Página: https://metallrack.com.br/produtos/rack-standard-rack/
 
 Racks e Telecom
 
